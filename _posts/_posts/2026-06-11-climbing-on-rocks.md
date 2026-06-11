@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Iggy"
-title: Climbing on Rocks DRAFT
+title: Climbing on Rocks
 date: 2026-06-11
 ---
 
