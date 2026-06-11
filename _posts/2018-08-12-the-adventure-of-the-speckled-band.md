@@ -21,11 +21,6 @@ Each time I edge the bowl closer, it darts sideways, evading me like the last pi
 
 This time, I manage to trap it, but the plaster above disintegrates under the cardboard, and clumps of grey-ceiling sift into my mouth and onto my pillow below. I really hope it’s not asbestos, and tactically decide not to research the matter, just in case it is. As I think this, I feel the weight of the roach rushing back and forth, all its legs tapping against the container in my hand. I carefully venture outside to set it free in the car park, hoping that cockroaches don’t have good navigation skills, and that it won’t find its way back inside.
 
-屋内, 天井, テーブル, 部屋 が含まれている画像
-
-AI 生成コンテンツは誤りを含む可能性があります。
-
-
 (My room, 2025 decolourised: Government-subsidised rent: ¥8,230/£41.50 a month )
 
 This experience is not unique to me. My neighbours are all also prefectural government employees; all housed in the same fifty-year old building. Since its construction, safety regulations have changed so much that it probably couldn’t be built today. Luckily (or perhaps unluckily), Gifu has been spared major earthquakes, so the building remains standing.
