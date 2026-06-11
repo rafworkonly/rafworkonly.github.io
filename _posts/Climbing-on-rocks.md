@@ -1,5 +1,6 @@
 ---
 layout: page
+author: "Iggy"
 title: Photo
 ---
 
