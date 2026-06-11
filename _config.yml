@@ -24,6 +24,7 @@ github_username:  rafworkonly
 
 # Build settings
 markdown: kramdown
+remote_theme: patdryburgh/hitchens
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
