@@ -1,12 +1,12 @@
 ---
 title: ""
 layout: post
-author: "Pat Dryburgh"
+author: "Raf"
 categories: opinion
 ---
 
-Not all posts need a title.
+Just a little test
 
 <!-- excerpt_separator -->
 
-They sometimes just want to be left alone.
+Is this working as expected?
