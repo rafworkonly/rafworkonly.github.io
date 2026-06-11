@@ -1,7 +1,7 @@
 ---
 layout: page
 author: "Iggy"
-title: Photo
+title: Climbing on Rocks
 ---
 
 ![Image description](/assets/images/climbing-on-rocks.png)
