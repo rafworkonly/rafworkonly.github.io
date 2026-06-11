@@ -1,5 +1,5 @@
 ---
-title: Wabi-sabi: The Japanese Art of Postponing the Inevitable
+title: Wabi-sabi The Japanese Art of Postponing the Inevitable
 author: Raf
 category: literature
 layout: post
