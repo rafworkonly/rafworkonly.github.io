@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 author: "Iggy"
 title: Climbing on Rocks DRAFT
 date: 2026-06-11
