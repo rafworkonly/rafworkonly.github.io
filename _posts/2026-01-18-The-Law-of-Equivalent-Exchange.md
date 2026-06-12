@@ -1,6 +1,9 @@
-18/01/2026
-
-The Law of Equivalent Exchange
+---
+layout: post
+author: "Raf"
+title: The Law of Equivalent Exchange
+date: 2026-01-18
+---
 
 It’s sunday 14:42. The first sunny day in recent memory, enough motivation to get me out of my room to a nearby cafe with my laptop and to actually think about things. It’s only a two minute walk away already feels far better than lying on the floor at home. Tatami mats are lovely in theory, but when you’re scared to put furniture down because of dents, you end up spending far too much time on the floor. The café I’m in has an open-airy interior and windows that overlook a main road in Gifu. Along the roadside are warning signs that this area has an unusually high frequency of accidents.
 
