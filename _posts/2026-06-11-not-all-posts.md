@@ -1,5 +1,5 @@
 ---
-title: "A Windowless Office"
+title: " "
 layout: post
 author: "Raf"
 categories: opinion
