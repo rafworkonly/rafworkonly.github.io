@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "A Windowless Office"
 layout: post
 author: "Raf"
 categories: opinion
 ---
 
-A Windowless Office
+A windowless office
 
 <!-- excerpt_separator -->
 
