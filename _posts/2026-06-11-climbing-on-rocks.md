@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Iggy"
-title: Climbing on Rocks
+title: Dangerous Rocks
 date: 2026-06-11
 ---
 Climbing on rocks is dangerous, you can fall, cut yourself, and be stranded in a position where you cannot receive immediate help. 
