@@ -5,7 +5,7 @@ author: "Raf"
 categories: opinion
 ---
 
-A windowless office
+A Windowless Office
 
 <!-- excerpt_separator -->
 
