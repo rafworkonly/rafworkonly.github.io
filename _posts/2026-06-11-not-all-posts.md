@@ -5,8 +5,8 @@ author: "Raf"
 categories: opinion
 ---
 
-Just a little test
+A windowless office
 
 <!-- excerpt_separator -->
 
-Is this working as expected?
+Is it so different from a coffin?
