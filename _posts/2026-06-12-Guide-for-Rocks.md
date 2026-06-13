@@ -18,4 +18,4 @@ Look for a path that is neither difficult nor easy, but is comfortably within yo
 
 If you are climbing a steep hilly incline, don't worry about the mud which gets under your fingernails, and if it starts raining, slow down, re-route, and take your coat off.
 
-![Guide](/assets/images/Guide-for-Rocks.jpeg)
+![Guide](/assets/images/Rocky-path.jpeg)
