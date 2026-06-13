@@ -16,4 +16,4 @@ It is important to remind yourself that much of your stress is fictional. Until 
 
 Please read part II, the guide on how to climb rocks. 
 
-![Rocks](/assets/images/Dnagerous-Rocks.jpeg)
+![Rocks](/assets/images/Dangerous-Rocks.jpeg)
