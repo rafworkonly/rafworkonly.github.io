@@ -17,3 +17,5 @@ Before you reach your desired location, step off the path. Go through the bushes
 Look for a path that is neither difficult nor easy, but is comfortably within your capabilities. As you move, test the environment again, and re-set your path. Pay close attention to your senses and the feedback which the environment is providing you. Taking your shoes off will provide you with more feedback, but you will be more likely to scratch your feet.
 
 If you are climbing a steep hilly incline, don't worry about the mud which gets under your fingernails, and if it starts raining, slow down, re-route, and take your coat off.
+
+![Guide](/assets/images/Guide-for-Rocks.jpeg)
