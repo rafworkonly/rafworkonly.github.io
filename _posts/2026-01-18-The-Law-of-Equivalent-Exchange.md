@@ -15,7 +15,9 @@ At first I was firm on my decision and didn’t even consider renewing. My day-t
 
 A childhood friend of mine, Iggy, and I often talk about a concept from the anime *Fullmetal Alchemist.* The idea is:
 
+
 ***Humankind cannot gain anything without first giving something in return; to obtain something, something of equal value must be lost*.** 
+
 
 In the world of alchemy, this means you can’t transmute gold without a material of equal value. And in our world, it’s no different: a one-off payment for a meal is not only money being spent but hours hours of your life (or someone else’s) that you trade for it. The principle is (perhaps overly) simple, but when applied deliberately, it can help gain clarity on what it is that we stand to lose from a given decision.
 
