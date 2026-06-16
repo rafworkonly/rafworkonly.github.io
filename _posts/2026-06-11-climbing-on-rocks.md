@@ -14,6 +14,6 @@ If you get stressed every time you open your email inbox, as I have been, you ar
 
 It is important to remind yourself that much of your stress is fictional. Until you go and climb some rocks, you won't notice the difference. 
 
-Please read part II, the guide on how to climb rocks. 
+Please read part II, [the guide on how to climb rocks](/2026/06/12/Guide-for-Rocks).
 
 ![Rocks](/assets/images/Dangerous-Rocks.jpeg)
