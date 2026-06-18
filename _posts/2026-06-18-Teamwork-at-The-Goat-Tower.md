@@ -5,7 +5,7 @@ title: Teamwork at The Goat Tower
 date: 2026-06-18
 ---
 
-As is often stated in a very meaningless way, teamwork is important! But as with many similar phrases it can require quite clear examples to absorb this knowledge such that it becomes part of you. One such time that we experienced this acutely was when climbing a small tower surrounded by goats.
+As is often stated in a very meaningless way, teamwork is important! But as with many similar phrases it can require quite clear examples to absorb this knowledge such that it becomes part of you. One time that we experienced this acutely was when climbing a small tower surrounded by goats.
 
 In a limestone valley near our home there exists a sanctuary for mountain goats, or at least it might seem like it's for the mountain goats at first glance. In actuality, the sanctuary is for protecting a rare wildflower and the goats have been placed there to eat the shrubs that grow in place of wildflowers and to make a suitable environment for the flowers to grow.
 
