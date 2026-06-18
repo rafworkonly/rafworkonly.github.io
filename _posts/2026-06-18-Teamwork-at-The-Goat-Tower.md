@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Raf"
-title: Teamwork at The Goat Tower
+title: Teamwork at the Goat Tower
 date: 2026-06-18
 ---
 
