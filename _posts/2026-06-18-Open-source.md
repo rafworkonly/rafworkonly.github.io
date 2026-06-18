@@ -19,7 +19,7 @@ Molecular dynamics, <a href="https://www.gromacs.org/">Gromacs</a> <br>
 There are a number of good tools that are free but not open source. 
 
 Math tools, <a href="https://www.desmos.com/">Desmos</a> <br>
-Math explanations and visuals <a href="https://www.3blue1brown.com/">3blue1brown</a> <br>
+Math explanations and visuals, <a href="https://www.3blue1brown.com/">3blue1brown</a> <br>
 Technical or scientific documents, <a href="https://www.latex-project.org/about/">LaTeX</a> <br>
 
 If you have any more ideas let me know and I will add them.
