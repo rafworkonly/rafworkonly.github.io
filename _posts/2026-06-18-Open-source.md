@@ -4,7 +4,7 @@ layout: post
 author: "Iggy"
 categories: opinion
 ---
-With open-source software, the source code is freely available and licensed in a manner that permits modification. Open-source tools are often as good or even better than proprietary ones (which are privately owned, or controlled by one particular organization).
+With open-source software, the source code is freely available and licensed in a manner that permits modification. Open-source software is often as good or even better than proprietary software (which is privately owned, or controlled by one particular organization).
 
 Below is a list of open source software that can be used for education, work, or other pursuits. 
 
