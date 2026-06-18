@@ -1,10 +1,10 @@
 ---
-title: "Switch to Open-Source"
+title: "Switch to Open Source"
 layout: post
 author: "Iggy"
 categories: opinion
 ---
-With open-source software, the source code is freely available and licensed in a manner that permits modification. Open-source software is often as good or even better than proprietary software (which is privately owned, or controlled by one particular organization).
+With open source software, the source code is freely available and licensed in a manner that permits modification. Open source software is often as good or even better than proprietary software (which is privately owned, or controlled by one particular organization).
 
 Below is a list of open source software that can be used for education, work, or other pursuits. 
 
@@ -17,7 +17,7 @@ Sandbox factory game, <a href="https://anuke.itch.io/mindustry">Mindustry</a> <b
 Molecular dynamics, <a href="https://www.gromacs.org/">Gromacs</a> <br>
 Microcontroller IDE, <a href="https://docs.arduino.cc/software/ide/">Arduino</a> <br>
 
-There are a number of good tools that are free but not open source. These will often have advertisements of some form.  
+There is lots of good software that is free but not open source. 
 
 Math tools, <a href="https://www.desmos.com/">Desmos</a> <br>
 Math explanations and visuals, <a href="https://www.3blue1brown.com/">3blue1brown</a> <br>
