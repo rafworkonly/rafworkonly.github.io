@@ -10,10 +10,10 @@ Below is a list of open source tools that can be used for education, work, or ot
 
 Free dictionary, <a href="https://www.wiktionary.org/">Wiktionary</a> <br>
 Computer operating system, <a href="https://ubuntu.com/">Ubuntu</a> <br>
-Programming distribution for python, <a href="https://free.upscaler.video/">Anaconda</a> <br>
+Programming in python, <a href="https://free.upscaler.video/">Anaconda</a> <br>
 Free AI image upscaler, <a href="https://free.upscaler.video/">Upscaler</a> <br>
 Packing and unpacking files, <a href="https://www.7-zip.org/">7-zip</a> <br>
-Hybrid tower-defense sandbox factory game, <a href="https://anuke.itch.io/mindustry">Mindustry</a> <br>
+Sandbox factory game, <a href="https://anuke.itch.io/mindustry">Mindustry</a> <br>
 Molecular dynamics, <a href="https://www.gromacs.org/">Gromacs</a> <br>
 
 There are a number of good tools that are free but not open source. 
