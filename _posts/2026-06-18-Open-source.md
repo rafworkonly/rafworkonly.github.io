@@ -15,6 +15,7 @@ Free AI image upscaler, <a href="https://free.upscaler.video/">Upscaler</a> <br>
 Packing and unpacking files, <a href="https://www.7-zip.org/">7-zip</a> <br>
 Sandbox factory game, <a href="https://anuke.itch.io/mindustry">Mindustry</a> <br>
 Molecular dynamics, <a href="https://www.gromacs.org/">Gromacs</a> <br>
+Microcontroller IDE, <a href="https://docs.arduino.cc/software/ide/">Arduino</a> <br>
 
 There are a number of good tools that are free but not open source. 
 
