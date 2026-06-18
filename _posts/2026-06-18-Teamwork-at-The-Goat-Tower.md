@@ -23,4 +23,4 @@ The first person to go up, is at most risk, if the piece of wood dislodges, they
 
 Before long the three of us are standing triumphantly on top of the tower and peering between the metal bars from above and discover the purpose of the tower.
 
-![photo of the track](/assets/images/Goat-Tower.jpeg)
+![photo of the track](/assets/images/Goat-tower-upscaled.jpeg)
