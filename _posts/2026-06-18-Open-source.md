@@ -8,17 +8,16 @@ Open source tools are ones where the source code is freely available and license
 
 Below is a list of open source tools that can be used for education, work, or other pursuits. 
 
-Free dictionary, <a href="https://www.wiktionary.org/">Wiktionary</a>
-
-Computer operating system, Ubuntu: https://ubuntu.com/ (there are other distributions) <br>
-Programming distribution for python, anaconda: https://www.anaconda.com/download (an easy starting point is anaconda navigator) <br>
-Free AI image upscaler: https://free.upscaler.video/ <br>
-Packing and unpacking files, 7-zip: https://www.7-zip.org/ <br>
-Molecular dynamics, GROMACS: https://www.gromacs.org/ <br>
-Hybrid tower-defense sandbox factory game, Mindustry: https://anuke.itch.io/mindustry <br>
+Free dictionary, <a href="https://www.wiktionary.org/">Wiktionary</a> <br>
+Computer operating system, <a href="https://ubuntu.com/">Ubuntu</a> <br>
+Programming distribution for python, <a href="https://free.upscaler.video/">Anaconda</a> <br>
+Free AI image upscaler, <a href="https://free.upscaler.video/">Upscaler</a> <br>
+Packing and unpacking files, <a href="https://www.7-zip.org/">7-zip</a> <br>
+Hybrid tower-defense sandbox factory game, <a href="https://anuke.itch.io/mindustry">Mindustry</a> <br>
+Molecular dynamics, <a href="https://www.gromacs.org/">Gromacs</a> <br>
 
 There are a number of good tools that are free but not open source. 
 
-Scientific calculator and graph plotter, desmos: https://www.desmos.com/scientific <br>
+Scientific calculator and graph plotter, <a href="https://www.desmos.com/scientific">Desmos</a> <br>
 
 If you have any more ideas let me know and I will add them.
