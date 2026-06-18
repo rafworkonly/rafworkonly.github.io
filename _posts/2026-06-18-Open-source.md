@@ -8,7 +8,7 @@ Open source tools are ones where the source code is freely available and license
 
 Below is a list of open source tools that can be used for education, work, or other pursuits. 
 
-Free dictionary <a href="https://www.wiktionary.org/">Wiktionary</a>
+Free dictionary, <a href="https://www.wiktionary.org/">Wiktionary</a>
 
 Computer operating system, Ubuntu: https://ubuntu.com/ (there are other distributions) <br>
 Programming distribution for python, anaconda: https://www.anaconda.com/download (an easy starting point is anaconda navigator) <br>
