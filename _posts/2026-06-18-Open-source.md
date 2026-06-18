@@ -18,6 +18,6 @@ Molecular dynamics, <a href="https://www.gromacs.org/">Gromacs</a> <br>
 
 There are a number of good tools that are free but not open source. 
 
-Scientific calculator and other math tools, <a href="https://www.desmos.com/scientific">Desmos</a> <br>
+Math tools, <a href="https://www.desmos.com/">Desmos</a> <br>
 
 If you have any more ideas let me know and I will add them.
