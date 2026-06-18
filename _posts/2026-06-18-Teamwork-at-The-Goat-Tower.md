@@ -9,7 +9,7 @@ As is often stated in a very meaningless way, teamwork is important! But as with
 
 In a limestone valley near our home there exists a sanctuary for mountain goats, or at least it might seem like it's for the mountain goats at first glance. In actuality, the sanctuary is for protecting a rare wildflower and the goats have been placed there to eat the shrubs that grow in place of wildflowers and to make a suitable environment for the flowers to grow.
 
-One day three of us are hiking through the sanctuary when come across a cobblestone tower. It's about 4 metres high with no windows and a domed metal bar roof. The goat tower. 
+One day three of us are hiking through the sanctuary when come across a cobblestone tower. It's about 4 metres high with no windows and a domed steel bar roof. The goat tower. 
 
 The obvious question is what is this tower? And the obvious solution is to climb it and find out.
 
