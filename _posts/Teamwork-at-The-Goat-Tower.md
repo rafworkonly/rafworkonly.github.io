@@ -22,3 +22,5 @@ We tie the belts together to make a rope and tie one end around a thick piece of
 The first person to go up, is at most risk, if the piece of wood dislodges, they will suddenly fall. To avoid any injuries, the other two spot them, ready to catch them if they fall. Once the first person is up he can tie the rope more securely and offer a hand to help climb over the lip at the top. 
 
 Before long the three of us are standing triumphantly on top of the tower and peering between the metal bars from above and discover the purpose of the tower.
+
+![photo of the track](/assets/images/Goat-Tower.jpeg)
