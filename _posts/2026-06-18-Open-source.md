@@ -9,11 +9,11 @@ With open source software, the source code is freely available and licensed in a
 Below is a list of open source software that can be used for education, work, or other pursuits. 
 
 Free dictionary, <a href="https://www.wiktionary.org/">Wiktionary</a> <br>
-Computer operating system, <a href="https://ubuntu.com/">Ubuntu</a> <br>
-Programming in python, <a href="https://www.anaconda.com/products/navigator">Anaconda</a> <br>
-Free AI image upscaler, <a href="https://free.upscaler.video/">Upscaler</a> <br>
 Packing and unpacking files, <a href="https://www.7-zip.org/">7-zip</a> <br>
 Sandbox factory game, <a href="https://anuke.itch.io/mindustry">Mindustry</a> <br>
+Free AI image upscaler, <a href="https://free.upscaler.video/">Upscaler</a> <br>
+Programming in python, <a href="https://www.anaconda.com/products/navigator">Anaconda</a> <br>
+Computer operating system, <a href="https://ubuntu.com/">Ubuntu</a> <br>
 Molecular dynamics, <a href="https://www.gromacs.org/">Gromacs</a> <br>
 Microcontroller IDE, <a href="https://docs.arduino.cc/software/ide/">Arduino</a> <br>
 
