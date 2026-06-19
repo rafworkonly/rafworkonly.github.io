@@ -4,11 +4,10 @@ layout: post
 author: "Iggy"
 categories: opinion
 ---
-With open source software, the source code is freely available and licensed in a manner that permits modification. Open source software is often as good or even better than proprietary software (which is privately owned, or controlled by one particular organisation). It's worth noting that whilst there are advantages to open source, namely that users can individually verify security of a platform by looking at the backend themselves, there are problems with it too. For example, it is harder to make open source products profitable and therefore the teams developing them are often very small, this means the developers are often not capable of devoting a lot of time to continuing development of their product and therefore user interface and support is often lacking.
+With open source software, the source code is freely available and licensed in a manner that permits modification. Open source software is often as good or even better than proprietary software (which is privately owned, or controlled by one particular organisation). 
 
 Below is a list of open source software that can be used for education, work, or other pursuits. 
 
-Anki, an application for flashcards that has a superior space-based repitition algorithm compared to other apps, it's how Raf learnt Japanese, <a href="[https://www.wiktionary.org/](https://apps.ankiweb.net/)">Anki</a> <br>
 Free dictionary, <a href="https://www.wiktionary.org/">Wiktionary</a> <br>
 Packing and unpacking files, <a href="https://www.7-zip.org/">7-zip</a> <br>
 Sandbox factory game, <a href="https://anuke.itch.io/mindustry">Mindustry</a> <br>
