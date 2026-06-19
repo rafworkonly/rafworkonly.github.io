@@ -4,7 +4,7 @@ layout: post
 author: "Iggy"
 categories: opinion
 ---
-Recently, I tried to use the online oxford english dictionary and found that I had to pay a subscription charge to see the meaning and use of the word. Madness! 
+Recently, I tried to use the online oxford english dictionary and found that I had to pay a subscription charge to see the meaning and use a the word. Madness! 
 
 With open source software, the source code is freely available and licensed in a manner that permits modification. Open source software is often as good or even better than proprietary software (which is privately owned, or controlled by one particular organisation). 
 
