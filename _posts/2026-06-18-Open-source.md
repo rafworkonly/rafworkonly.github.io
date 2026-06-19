@@ -1,12 +1,12 @@
 ---
-title: "Switch to Open Source"
+title: "Try Open Source"
 layout: post
 author: "Iggy"
 categories: opinion
 ---
 With open source software, the source code is freely available and licensed in a manner that permits modification. Open source software is often as good or even better than proprietary software (which is privately owned, or controlled by one particular organisation). 
 
-Below is a list of open source software that can be used for education, work, or other pursuits. 
+Although open source software has a few disadvantages, and one must be selective as to what they use, I encourage you to try a few of the tools I've shared below. In general, you should be careful and check the links are from the official websites. Open source software can be very safe, and well maintained depending on the project. Below is a list of open source software that I recommend for education, work, or other pursuits. 
 
 Free dictionary, <a href="https://www.wiktionary.org/">Wiktionary</a> <br>
 Packing and unpacking files, <a href="https://www.7-zip.org/">7-zip</a> <br>
