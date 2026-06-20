@@ -2,7 +2,7 @@
 layout: post
 author: "Iggy & Raf"
 title: How to make a submission! 
-date: 2026-01-18
+date: 2026-06-20
 ---
 We made this site as a place to share the things we and the people in our lives are thinking about. There's too much shit on the internet that's written by people you don't know or not even written by people at all!. 
 This site is a place to engage with your local community. The project is entirely free, open-source, and is not associated to any institution. 
