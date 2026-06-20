@@ -10,7 +10,7 @@ This site is a place to engage with your local community. The project is entirel
 To make a submission: we recommend you sit down with a piece of paper and a pen and handwrite your message. Give it to us (or send a photo/scan), and we will type it up with you. 
 
 We advise you to:
-- Say what you wanna say (Any topic) 
+- Say what you wanna say (any topic) 
 - Be honest 
 - be unique 
 
