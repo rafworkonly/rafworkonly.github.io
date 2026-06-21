@@ -14,7 +14,7 @@ We recommend you sit down with a piece of paper and a pen and handwrite your mes
 We advise you to:
 - Say what you wanna say (any topic) 
 - Be honest 
-- be unique
+- Be unique
 
 You can:
 -Add photos if you send them via whatsapp (compressed)
