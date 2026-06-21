@@ -14,3 +14,5 @@ This has continued, especially the surfing and did do one night solo camping/sur
 I still love doing holidays, activities or just meeting with my mates, but getting comfortable doing things myself has let me do a lot. I mean, just the surfing is something I just wouldn't do if I hadn't had the drive to do it myself in Cornwall. 
 
 I think a lot of people could do with trying it out, even if it's just some walking, it's pretty easy, and after the first couple times, any awkwardness just goes anyway.
+
+![Plane(/assets/images/Jonathan-plane-cropped.jpg)
