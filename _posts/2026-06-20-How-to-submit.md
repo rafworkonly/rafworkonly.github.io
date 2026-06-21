@@ -15,7 +15,7 @@ We advise you to:
 - Say what you wanna say (any topic) 
 - Be honest 
 - Be unique
-- 
+
 Some questions to ask yourself could include:
 - What do I want to tell the world?
 - What have I figured out from my experiences so far?
