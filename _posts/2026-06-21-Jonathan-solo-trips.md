@@ -15,4 +15,4 @@ I still love doing holidays, activities or just meeting with my mates, but getti
 
 I think a lot of people could do with trying it out, even if it's just some walking, it's pretty easy, and after the first couple times, any awkwardness just goes anyway.
 
-![Plane(/assets/images/Jonathan-plane-cropped.jpg)
+![Plane](/assets/images/Jonathan-plane-cropped.jpg)
