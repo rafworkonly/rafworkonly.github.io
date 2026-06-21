@@ -15,10 +15,7 @@ We advise you to:
 - Say what you wanna say (any topic) 
 - Be honest 
 - Be unique
-
-You can:
--Add photos if you send them via whatsapp (compressed)
-
+- 
 Some questions to ask yourself could include:
 - What do I want to tell the world?
 - What have I figured out from my experiences so far?
@@ -30,6 +27,8 @@ Some questions to ask yourself could include:
 - What am I grateful for? 
 - What do we need to change?
 
-If you have a suggestion or want to contribute to the project in another way, please let us know. 
+You can:
+-Add photos if you send them via whatsapp (compressed)
+-Contribute to the project in another way (let us know how)
 
 Enjoy writing!
