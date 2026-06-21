@@ -9,12 +9,15 @@ This site is a place to engage with your local community. The project is entirel
 
 To make a submission: 
 
-<b> We recommend you sit down with a piece of paper and a pen and handwrite your message. Give it to us (or send a photo/scan), and we will type it up with you. We can include photos if you send them via whatsapp. </b>
+We recommend you sit down with a piece of paper and a pen and handwrite your message. Give it to us (or send a photo/scan), and we will type it up with you.
 
 We advise you to:
 - Say what you wanna say (any topic) 
 - Be honest 
-- be unique 
+- be unique
+
+You can:
+-Add photos if you send them via whatsapp (compressed)
 
 Some questions to ask yourself could include:
 - What do I want to tell the world?
@@ -25,6 +28,8 @@ Some questions to ask yourself could include:
 - What have I struggled with?
 - What have a I succeeded at? 
 - What am I grateful for? 
-- What do we need to change? 
+- What do we need to change?
+
+If you have a suggestion or want to contribute to the project in another way, please let us know. 
 
 Enjoy writing!
