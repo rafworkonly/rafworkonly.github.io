@@ -29,6 +29,6 @@ Some questions to ask yourself could include:
 
 You can:
 - Add photos if you send them via whatsapp 
-- Contribute to the project in another way (let us know how)
+- Contribute to the project in another way
 
 Enjoy writing!
