@@ -28,7 +28,7 @@ Some questions to ask yourself could include:
 - What do we need to change?
 
 You can:
-- Add photos if you send them via whatsapp (compressed)
-- Contribute to the project in another way 
+- Add photos if you send them via whatsapp 
+- Contribute to the project in another way (let us know how)
 
 Enjoy writing!
