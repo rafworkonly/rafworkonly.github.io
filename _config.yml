@@ -26,6 +26,9 @@ github_username:  rafworkonly
 markdown: kramdown
 remote_theme: patdryburgh/hitchens
 
+show_excerpts: true
+excerpt_length: 20
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
