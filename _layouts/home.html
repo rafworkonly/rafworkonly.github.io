@@ -41,7 +41,7 @@ layout: default
       <button class="filter-btn" onclick="filterPosts('{{ author }}', this)">{{ author }}</button>
     {% endunless %}
   {% endfor %}
-<button class="filter-clear" onclick="filterPosts('All', this)">Clear Filter</button>
+  <button class="filter-clear" onclick="filterPosts('All', this)">Clear Filter</button>
 </div>
 
   <table class="post-table">
@@ -56,7 +56,7 @@ layout: default
       {% if site.paginate and site.paginate_path %}
         {% for post in paginator.posts %}
           {% unless post.pinned %}
-          <tr class="post-row" data-author="{{ post.author | default: 'unknown' }}">
+          <tr class="post-row" data-author="{{ post.author | default: 'unknown' }}" onclick="window.location='{{ post.url | absolute_url }}'" style="cursor: pointer;">
             <td class="post-table-date">{{ post.date | date: "%b %-d, '%y" }}</td>
             <td class="post-table-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></td>
             <td class="post-table-excerpt">{{ post.excerpt | strip_html | truncatewords: 15 }}</td>
@@ -66,7 +66,7 @@ layout: default
       {% else %}
         {% for post in site.posts %}
           {% unless post.pinned %}
-          <tr class="post-row" data-author="{{ post.author | default: 'unknown' }}">
+          <tr class="post-row" data-author="{{ post.author | default: 'unknown' }}" onclick="window.location='{{ post.url | absolute_url }}'" style="cursor: pointer;">
             <td class="post-table-date">{{ post.date | date: "%b %-d, '%y" }}</td>
             <td class="post-table-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></td>
             <td class="post-table-excerpt">{{ post.excerpt | strip_html | truncatewords: 15 }}</td>
