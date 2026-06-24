@@ -22,7 +22,7 @@ Some questions to ask yourself could include:
 - What is something I think is undervalued or deserves more attention? 
 - What do my friends need to know?
 - What have I struggled with?
-- What have a I succeeded at? 
+- What have I succeeded at? 
 - What am I grateful for? 
 - What do we need to change?
 
