@@ -233,11 +233,23 @@ figcaption {
 }
 
 .filter-clear {
-  font-size: 0.8em;
+  background: none;
+  border: 1px solid $muted-text-color;
   color: $muted-text-color;
   cursor: pointer;
-  text-decoration: underline;
+  font-family: $font-family;
+  font-size: 0.8em;
+  padding: 0.2em 0.75em;
+  border-radius: 4px;
+  transition: all 0.15s ease;
+  text-decoration: none;
   margin-left: 0.5em;
+}
+
+.filter-clear:hover {
+  background: rgba($text-color, 0.1);
+  border-color: $text-color;
+  color: $text-color;
 }
 
 .post-table {
