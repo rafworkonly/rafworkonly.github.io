@@ -32,7 +32,7 @@ layout: default
 
 <div class="filter-bar">
   <span class="filter-label">filter by author</span>
-  <button class="filter-btn active" onclick="filterPosts('all', this)">all</button>
+  <button class="filter-btn active" onclick="filterPosts('All', this)">All</button>
   <button class="filter-btn" onclick="filterPosts('Raf', this)">Raf</button>
   <button class="filter-btn" onclick="filterPosts('Iggy', this)">Iggy</button>
   {% assign authors = site.posts | map: 'author' | uniq | compact %}
