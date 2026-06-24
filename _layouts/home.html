@@ -30,13 +30,15 @@ layout: default
     {% endif %}
   </h1>
 
-  <div class="filter-bar">
-    <span class="filter-label">filter by author</span>
-    <button class="filter-btn active" onclick="filterPosts('all', this)">all</button>
-    <button class="filter-btn" onclick="filterPosts('Raf', this)">Raf</button>
-    <button class="filter-btn" onclick="filterPosts('Iggy', this)">Iggy</button>
-    <a class="filter-clear" onclick="filterPosts('all', this)">clear filter</a>
-  </div>
+ <div class="filter-bar">
+  <span class="filter-label">filter by author</span>
+  <button class="filter-btn active" onclick="filterPosts('all', this)">all</button>
+  {% assign authors = site.posts | map: 'author' | uniq | compact %}
+  {% for author in authors %}
+    <button class="filter-btn" onclick="filterPosts('{{ author }}', this)">{{ author }}</button>
+  {% endfor %}
+  <a class="filter-clear" onclick="filterPosts('all', this)">clear filter</a>
+</div>
 
   <table class="post-table">
     <thead>
