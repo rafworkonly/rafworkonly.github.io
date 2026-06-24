@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 {% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
   {% include menu.html %}
 {% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
@@ -23,7 +22,6 @@ layout: default
 {% endif %}
 
 <main class="home" id="main" role="main" aria-label="Content">
-
   <h1 class="content-title divided">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
@@ -32,51 +30,71 @@ layout: default
     {% endif %}
   </h1>
 
-  {% if site.paginate and site.paginate_path %}
-    
-    <ul class="post-list">
-      {% for post in paginator.posts %}
-        {% include post-list-item.html %}
-      {% endfor %}
-    </ul>
+  <div class="filter-bar">
+    <span class="filter-label">filter by author</span>
+    <button class="filter-btn active" onclick="filterPosts('all', this)">all</button>
+    <button class="filter-btn" onclick="filterPosts('Raf', this)">Raf</button>
+    <button class="filter-btn" onclick="filterPosts('Iggy', this)">Iggy</button>
+    <a class="filter-clear" onclick="filterPosts('all', this)">clear filter</a>
+  </div>
 
-    {% if paginator.total_pages > 1 %}
+  <table class="post-table">
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Title</th>
+        <th>Summary</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% if site.paginate and site.paginate_path %}
+        {% for post in paginator.posts %}
+          {% unless post.pinned %}
+          <tr class="post-row" data-author="{{ post.author | default: 'unknown' }}">
+            <td class="post-table-date">{{ post.date | date: "%b %-d, '%y" }}</td>
+            <td class="post-table-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></td>
+            <td class="post-table-excerpt">{{ post.excerpt | strip_html | truncatewords: 15 }}</td>
+          </tr>
+          {% endunless %}
+        {% endfor %}
+      {% else %}
+        {% for post in site.posts %}
+          {% unless post.pinned %}
+          <tr class="post-row" data-author="{{ post.author | default: 'unknown' }}">
+            <td class="post-table-date">{{ post.date | date: "%b %-d, '%y" }}</td>
+            <td class="post-table-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></td>
+            <td class="post-table-excerpt">{{ post.excerpt | strip_html | truncatewords: 15 }}</td>
+          </tr>
+          {% endunless %}
+        {% endfor %}
+      {% endif %}
+    </tbody>
+  </table>
 
-      <div class="post-pagination">
-        {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn">&lang;&nbsp;Older</a>
-        {% else %}
-          <span>&nbsp;</span>
-        {% endif %}
-        <span class="pagination-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
-        {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">Newer&nbsp;&rang;</a>
-        {% else %}
-          <span>&nbsp;</span>
-        {% endif %}
-      </div>
-
-    {% endif %}
-
-  {% else %}
-
-    <ul class="post-list">
-      {% for post in site.posts %}
-        {% include post-list-item.html %}
-      {% endfor %}
-    </ul>
-  
+  {% if site.paginate and site.paginate_path and paginator.total_pages > 1 %}
+    <div class="post-pagination">
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="pagination-next btn">&lang;&nbsp;Older</a>
+      {% else %}
+        <span>&nbsp;</span>
+      {% endif %}
+      <span class="pagination-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">Newer&nbsp;&rang;</a>
+      {% else %}
+        <span>&nbsp;</span>
+      {% endif %}
+    </div>
   {% endif %}
-    
 
 </main>
+
+<!-- parallax kept for later use -->
+<!--
 <div class="parallax-container">
-    <img src="assets/images/Whirl-2.png" class="parallax-img" style="top: 10%; left: 5%;">
-    <img src="assets/images/Mountains.png" class="parallax-img" style="top: 5%; right: 8%;">
+  <img src="assets/images/Whirl-2.png" class="parallax-img" style="top: 10%; left: 5%;">
+  <img src="assets/images/Mountains.png" class="parallax-img" style="top: 5%; right: 8%;">
 </div>
-
-
-
 <script>
   window.addEventListener('scroll', function() {
     var scrollY = window.scrollY;
@@ -85,4 +103,21 @@ layout: default
       img.style.transform = 'translateY(' + (scrollY * speed) + 'px)';
     });
   });
+</script>
+-->
+
 <script>
+  function filterPosts(author, btn) {
+    document.querySelectorAll('.filter-btn').forEach(function(b) {
+      b.classList.remove('active');
+    });
+    if (btn.classList.contains('filter-btn')) btn.classList.add('active');
+    document.querySelectorAll('.post-row').forEach(function(row) {
+      if (author === 'all' || row.dataset.author === author) {
+        row.style.display = '';
+      } else {
+        row.style.display = 'none';
+      }
+    });
+  }
+</script>
