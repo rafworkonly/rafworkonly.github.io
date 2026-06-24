@@ -32,12 +32,12 @@ layout: default
 
  <div class="filter-bar">
   <span class="filter-label">filter by author</span>
-  <button class="filter-btn active" onclick="filterPosts('all', this)">all</button>
+  <button class="filter-btn active" onclick="filterPosts('All', this)">All</button>
   {% assign authors = site.posts | map: 'author' | uniq | compact %}
   {% for author in authors %}
     <button class="filter-btn" onclick="filterPosts('{{ author }}', this)">{{ author }}</button>
   {% endfor %}
-  <a class="filter-clear" onclick="filterPosts('all', this)">clear filter</a>
+  <a class="filter-clear" onclick="filterPosts('all', this)">Clear Filter</a>
 </div>
 
   <table class="post-table">
