@@ -23,4 +23,4 @@ Over the next twenty minutes she uses my friend’s date of birth, an app on her
 
 Walking back through the rain, I wasn't any more convinced that this woman could predict the future. What stands out to me is how quickly a stranger could supply a new vocabulary for thinking about it, and one that relied on chance for its value. For a few thousand yen and twenty minutes of his time, my friend left with a different way to think about his problems. Which to me, seemed more than a fair price.
 
-![Izakaya](/assets/images/Izakaya.png)
+![izakaya](/assets/images/izakaya.png)
