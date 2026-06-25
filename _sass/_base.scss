@@ -321,3 +321,14 @@ figcaption {
     min-height: 100%;
   }
 }
+body {
+  cursor: url('/assets/images/cursor-default.png'), auto;
+}
+
+a, button, [onclick] {
+  cursor: url('/assets/images/cursor-pointer.png'), pointer;
+}
+
+p, h1, h2, h3, h4, h5, h6, li, td {
+  cursor: url('/assets/images/cursor-text.png'), text;
+}
