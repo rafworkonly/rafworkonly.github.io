@@ -117,12 +117,17 @@ figcaption {
   margin: auto;
   padding: 3em 2em;
 }
+
 @media (max-width: 768px) {
   .home {
     padding: 2em 1em;
   }
-  
+
   .post-table-excerpt {
+    display: none;
+  }
+
+  .post-table thead th:last-child {
     display: none;
   }
 }
@@ -168,6 +173,7 @@ figcaption {
     margin-top: 0;
   }
 }
+
 .parallax-container {
   position: fixed;
   top: 0;
@@ -184,22 +190,24 @@ figcaption {
   width: 350px;
   opacity: 0.5;
 }
+
 @media (max-width: 768px) {
   .parallax-container {
     display: none;
   }
 }
- video {
+
+video {
   display: block;
   max-width: 100%;
   margin: 2em auto;
 }
+
 .post-content video {
   max-width: 100%;
   width: 100%;
   height: auto;
 }
-
 
 .filter-bar {
   margin-bottom: 1.5em;
@@ -221,7 +229,7 @@ figcaption {
   background: none;
   border: 1px solid $muted-text-color;
   color: $muted-text-color;
-  cursor: pointer;
+  cursor: url('/assets/images/Hand2.png'), pointer;
   font-family: $font-family;
   font-size: 0.8em;
   padding: 0.2em 0.75em;
@@ -245,7 +253,7 @@ figcaption {
   background: none;
   border: 1px solid $muted-text-color;
   color: $muted-text-color;
-  cursor: pointer;
+  cursor: url('/assets/images/Hand2.png'), pointer;
   font-family: $font-family;
   font-size: 0.8em;
   padding: 0.2em 0.75em;
@@ -315,12 +323,14 @@ figcaption {
   padding: 0.75em 0;
   vertical-align: top;
 }
+
 @media (min-width: 769px) {
   html {
     border: 25px solid #b9c2ac;
     min-height: 100%;
   }
 }
+
 body {
   cursor: url('/assets/images/Arrow1.png'), auto;
 }
