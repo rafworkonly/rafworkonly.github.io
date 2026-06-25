@@ -322,13 +322,13 @@ figcaption {
   }
 }
 body {
-  cursor: url('/assets/images/cursor-default.png'), auto;
+  cursor: url('/assets/images/Arrow1.png'), auto;
 }
 
 a, button, [onclick] {
-  cursor: url('/assets/images/cursor-pointer.png'), pointer;
+  cursor: url('/assets/images/Hand2.png'), pointer;
 }
 
 p, h1, h2, h3, h4, h5, h6, li, td {
-  cursor: url('/assets/images/cursor-text.png'), text;
+  cursor: url('/assets/images/Text3.png'), text;
 }
