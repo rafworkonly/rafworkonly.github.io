@@ -5,9 +5,9 @@ title: How Fortune-tellers Solve Problems
 date: 2026-06-25
 ---
 
-Last weekend a friend was visiting me here in Gifu city. Usually, when I have visitors, I take them to the same izakaya, where we drink highballs and eat an unreasonable amount of raw cabbage. This evening, we’d ordered a lot of strange items (I don’t recommend the crab butter toast), and after a few mikan sours (a citrus drink made with shochu) we were ready to pay the bill and leave. 
+Last weekend a friend was visiting me here in Gifu city. Usually, when I have visitors, I take them to the same izakaya, where we drink highballs and eat an unreasonable amount of raw cabbage. This evening, we’d ordered a tried something new on the menu and ordered crab butter toast, which was a mistake. But, after a few _mikan sours_ (a citrus drink made with shochu) we were ready to pay the bill and leave. 
 
-It's the start of the rainy season. Outside, the downpour drums on the concrete while groups of drinkers shout to one another as they pass-by. In just the short time that we search for our umbrellas in the stand by the door, we’re already wet. Halfway to the bus stop, we notice a tent that neither of us remember passing on the way in. I read the kanji above the entrance- 占い師 Uranai-shi. 
+It's the start of the rainy season. Outside, the downpour drums on the concrete while groups of drinkers shout to one another as they pass-by. In just the short time that we search for our umbrellas in the stand by the door, we’re already wet. Halfway to the bus stop, we notice a tent that neither of us remember passing on the way in. I read the kanji above the entrance- 占い師 _uranai-shi_. 
 "It's a fortune teller," I tell my friend. 
 
 We’ve rarely seen fortune-tellers in the UK but it’s a comparatively common profession here in Japan. After some chatter and a few more steps towards the bus-stop, we make the decision to turn around and go in. Neither of us have had our fortunes read before and I think of it as a potentially interesting cultural experience.
