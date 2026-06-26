@@ -5,9 +5,9 @@ title: How Fortune-tellers Solve Problems
 date: 2026-06-25
 ---
 
-Last weekend a friend was visiting me here in Gifu city. Usually, when I have visitors, I take them to the same izakaya, where we drink highballs and eat a plate of raw cabbage and sesame oil. This evening, we’d decided to try something new and ordered crab butter toast, which I don't recommend. But, after a few _mikan sours_ (a citrus drink made with shochu) we were ready to pay the bill and leave. 
+Last weekend a friend was visiting me here in Gifu city. Usually, when I have visitors, I take them to the same izakaya, where we drink highballs and eat a plate of raw cabbage and sesame oil. This evening, we’d decided to try something new and ordered crab butter toast, which I don't recommend. After a few _mikan sours_ (a citrus drink made with shochu) to get the taste of crab butter out of our mouths, we were ready to pay the bill and leave. 
 
-It's the start of the rainy season. Outside, the downpour drums on the concrete while groups of drinkers shout to one another as they pass-by. In the short time that we search the stand by the door for our umbrellas, we’re already wet. Halfway to the bus stop, we notice a tent that neither of us remember passing on the way in. 
+It's the start of the rainy season. Outside, the concrete drums in the rain while groups of drinkers shout to one another as they pass-by. In the short time that we search the stand by the door for our umbrellas, we’re already wet. Halfway to the bus stop, we notice a tent that neither of us remember passing on the way in. 
 
 I read the kanji above the entrance- 占い師 _uranai-shi_. 
 "A fortune teller!" I tell my friend. 
