@@ -420,3 +420,11 @@ p, h1, h2, h3, h4, h5, h6, li, td {
   color: #d0d0d0;  // light grey
   white-space: nowrap;
 }
+.visitor-widget {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 0.8rem;
+  text-align: right;
+  color: #888;
+}
