@@ -41,7 +41,7 @@
           awayTimer = setInterval(function() {
             document.title = messages[messageIndex % messages.length];
             messageIndex++;
-          }, 2000);
+          }, 120000);
         } else {
           clearInterval(awayTimer);
           messageIndex = 0;
