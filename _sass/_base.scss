@@ -363,10 +363,11 @@ p, h1, h2, h3, h4, h5, h6, li, td {
   background: #1e1e1e;
   border: 3px solid #3a3a3a;
   border-radius: 10px;
-  padding: 0.2em 1em;
+  padding: 0;
+  overflow: hidden;
   display: flex;
   align-items: center;
-  gap: 0.6em;
+  gap: 0;
   max-width: 280px;
   z-index: 9999;
   opacity: 0;
@@ -378,6 +379,7 @@ p, h1, h2, h3, h4, h5, h6, li, td {
     width: 80px;
     height: 80px;
     flex-shrink: 0;
+    display: block;
     image-rendering: pixelated;
   }
 }
@@ -390,14 +392,15 @@ p, h1, h2, h3, h4, h5, h6, li, td {
 .achievement-text {
   display: flex;
   flex-direction: column;
-  gap: 0.1em;
+  gap: 0;
   min-width: 0; // prevents text overflow out of flex container
+  padding: 0 0.75em;
 }
 
 .achievement-title {
   font-size: 0.95em;
   font-family: monospace;
-  color: #d0d0d0;  // light grey 
+  color: #d0d0d0;  // light grey
   white-space: nowrap;
 }
 
@@ -405,12 +408,13 @@ p, h1, h2, h3, h4, h5, h6, li, td {
   font-size: 0.9em;
   font-family: monospace;
   color: #ffffff;
+  font-weight: bold;
   white-space: nowrap;
 }
 
 .achievement-desc {
   font-size: 0.85em;
   font-family: monospace;
-  color: #d0d0d0;  // light grey 
+  color: #d0d0d0;  // light grey
   white-space: nowrap;
 }
