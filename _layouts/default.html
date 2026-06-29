@@ -40,4 +40,28 @@
 
 </script>
   </body>
+  <script>
+  var originalTitle = document.title;
+  var messages = [
+    "finish reading me... ",
+    "ǝɹɐɥs oʇ ǝɔɐld ∀",
+    "(◐ω◑ )",
+    "(－_－) zzZ",
+  ];
+  var messageIndex = 0;
+  var awayTimer = null;
+
+  document.addEventListener('visibilitychange', function() {
+    if (document.hidden) {
+      awayTimer = setInterval(function() {
+        document.title = messages[messageIndex % messages.length];
+        messageIndex++;
+      }, 2000);
+    } else {
+      clearInterval(awayTimer);
+      messageIndex = 0;
+      document.title = originalTitle;
+    }
+  });
+</script>
 </html>
