@@ -360,14 +360,14 @@ p, h1, h2, h3, h4, h5, h6, li, td {
   position: fixed;
   bottom: 2em;
   right: 2em;
-  background: rgba(40, 40, 40, 0.5);
+  background: rgba(80, 80, 80, 0.5);
   border: 2px solid rgba($text-color, 0.4);
   border-radius: 12px;
-  padding: 1em 1.25em;
+  padding: 0.5em 0.75em;
   display: flex;
   align-items: center;
-  gap: 1em;
-  max-width: 280px;
+  gap: 0.6em;
+  max-width: 220px;
   z-index: 9999;
   opacity: 0;
   transform: translateY(20px);
@@ -375,8 +375,8 @@ p, h1, h2, h3, h4, h5, h6, li, td {
   backdrop-filter: blur(8px);
 
   img {
-    width: 40px;
-    height: 40px;
+    width: 56px;
+    height: 56px;
     flex-shrink: 0;
   }
 }
