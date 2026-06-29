@@ -360,24 +360,25 @@ p, h1, h2, h3, h4, h5, h6, li, td {
   position: fixed;
   bottom: 2em;
   right: 2em;
-  background: rgba(80, 80, 80, 0.5);
-  border: 4px solid rgba($text-color, 0.4);
-  border-radius: 8px;
-  padding: 0.5em 0.75em;
+  background: #1e1e1e;
+  border: 3px solid #3a3a3a;
+  border-radius: 10px;
+  padding: 0.6em 1em;
   display: flex;
   align-items: center;
   gap: 0.6em;
-  max-width: 220px;
+  max-width: 280px;
   z-index: 9999;
   opacity: 0;
   transform: translateY(20px);
   transition: opacity 0.4s ease, transform 0.4s ease;
-  backdrop-filter: blur(8px);
+  box-shadow: 0 0 0 1px #111, 0 4px 16px rgba(0,0,0,0.6);
 
   img {
-    width: 56px;
-    height: 56px;
+    width: 40px;
+    height: 40px;
     flex-shrink: 0;
+    image-rendering: pixelated;
   }
 }
 
@@ -386,22 +387,23 @@ p, h1, h2, h3, h4, h5, h6, li, td {
   transform: translateY(0);
 }
 
+.achievement-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1em;
+  min-width: 0; // prevents text overflow out of flex container
+}
+
 .achievement-title {
-  font-size: 1.2em;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: $muted-text-color;
-  margin-bottom: 2px;
+  font-size: 0.95em;
+  font-family: monospace;
+  color: #d966d6;
+  white-space: nowrap;
 }
 
 .achievement-name {
-  font-size: 1.2em;
-  font-weight: bold;
-  color: $text-color;
-  margin-bottom: 2px;
-}
-
-.achievement-desc {
   font-size: 0.9em;
-  color: $muted-text-color;
+  font-family: monospace;
+  color: #ffffff;
+  white-space: nowrap;
 }
