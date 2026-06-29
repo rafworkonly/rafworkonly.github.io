@@ -95,11 +95,11 @@ layout: default
 
 <body>
 
-  <!-- visitor counter widget -->
-  <div id="visitor-widget" style="font-size:14px;">
-    <span id="online-count">—</span> online now &nbsp;|&nbsp;
-    <span id="total-count">—</span> total visits
-  </div>
+ <!-- visitor counter widget -->
+<div id="visitor-widget" style="font-size:14px;">
+  <span id="online-count">—</span> online now &nbsp;|&nbsp;
+  <span id="total-count">—</span> total visits
+</div>
 
 <script type="module">
 import { playhtml } from "https://unpkg.com/playhtml";
@@ -116,7 +116,34 @@ console.log("Methods:", Object.keys(playhtml));
 
 try {
   const visits = playhtml.createPageData("visit-count", { count: 0 });
+
+  // Make it accessible from the console
+  window.visits = visits;
+
   console.log("createPageData works!", visits);
+  console.log("Visit methods:", Object.keys(visits));
+
+  // Increment the counter
+  visits.setData((draft) => {
+    draft.count += 1;
+  });
+
+  // Listen for updates
+  visits.onUpdate((data) => {
+    console.log("UPDATE:", data);
+
+    document.getElementById("total-count").textContent =
+      data.count.toLocaleString();
+  });
+
+  // Listen for online users
+  playhtml.presence.onPresenceChange("cursor", (presences) => {
+    console.log("PRESENCE:", presences);
+
+    document.getElementById("online-count").textContent =
+      presences.size;
+  });
+
 } catch (e) {
   console.error(e);
 }
