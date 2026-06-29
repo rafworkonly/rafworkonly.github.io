@@ -433,3 +433,13 @@ p, h1, h2, h3, h4, h5, h6, li, td {
   color: $muted-text-color;
   white-space: nowrap;
 }
+@media (max-width: 768px) {
+  #visitor-widget {
+    position: static;
+    transform: none;
+    text-align: center;
+    display: block;
+    padding: 0.5em 0;
+    font-size: 0.75rem;
+  }
+}
