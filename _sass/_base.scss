@@ -356,3 +356,52 @@ p, h1, h2, h3, h4, h5, h6, li, td {
   width: 100%;
   min-height: 600px;
 }
+#achievement-popup {
+  position: fixed;
+  bottom: 2em;
+  right: 2em;
+  background: rgba($brand-color, 0.92);
+  border: 1px solid rgba($text-color, 0.2);
+  border-radius: 12px;
+  padding: 1em 1.25em;
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  max-width: 280px;
+  z-index: 9999;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.4s ease, transform 0.4s ease;
+  backdrop-filter: blur(8px);
+
+  img {
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+  }
+}
+
+#achievement-popup.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.achievement-title {
+  font-size: 0.65em;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: $muted-text-color;
+  margin-bottom: 2px;
+}
+
+.achievement-name {
+  font-size: 0.9em;
+  font-weight: bold;
+  color: $text-color;
+  margin-bottom: 2px;
+}
+
+.achievement-desc {
+  font-size: 0.75em;
+  color: $muted-text-color;
+}
