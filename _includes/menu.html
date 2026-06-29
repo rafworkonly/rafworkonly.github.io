@@ -2,7 +2,8 @@
 
 {% if menu %}
 <nav class="site-navigation" role="navigation">
-  <ul class="nav-links">
+
+  <ul>
     <li>
       <a href="{{ '/' | prepend: site.baseurl }}">
         Home
@@ -22,12 +23,12 @@
         {% endif %}
       </li>
     {% endfor %}
-
-    <li id="visitor-widget">
-      <span id="online-count">—</span> online now &nbsp;|&nbsp;
-      <span id="total-count">—</span> total visits
-    </li>
-
   </ul>
+
+  <div id="visitor-widget">
+    <span id="online-count">—</span> online now &nbsp;|&nbsp;
+    <span id="total-count">—</span> total visits
+  </div>
+
 </nav>
 {% endif %}
