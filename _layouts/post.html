@@ -1,34 +1,34 @@
 ---
 layout: default
 ---
-
 {% if site.data.menu %}
   {% include menu.html %}
 {% else %}
   {% include back-link.html %}
 {% endif %}
-
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
-
   {% if page.title != "" %}
     <h1 class="post-title divided p-name" itemprop="name headline">
       {{ page.title }}
     </h1>
   {% endif %}
-
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
-
   <div class="post-meta">
     {% if page.author %}
       <div itemprop="author">{{ page.author }}</div>
     {% endif %}
     <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
   </div>
-
-  {% if site.disqus.shortname %}
-    {% include disqus-comments.html %}
-  {% endif %}
-
+  <div class="cusdis-wrap">
+    <div id="cusdis_thread"
+      data-host="https://cusdis.com"
+      data-app-id="3d8b2e55-df53-472e-946b-45c97107b697"
+      data-page-id="{{ page.url }}"
+      data-page-url="{{ page.url | absolute_url }}"
+      data-page-title="{{ page.title }}"
+    ></div>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+  </div>
 </article>
