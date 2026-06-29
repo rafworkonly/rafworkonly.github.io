@@ -352,3 +352,7 @@ p, h1, h2, h3, h4, h5, h6, li, td {
   padding-left: 1em;
   padding-right: 1em;
 }
+#cusdis_thread iframe {
+  width: 100%;
+  min-height: 600px;
+}
