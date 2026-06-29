@@ -360,8 +360,8 @@ p, h1, h2, h3, h4, h5, h6, li, td {
   position: fixed;
   bottom: 2em;
   right: 2em;
-  background: rgba($brand-color, 0.92);
-  border: 1px solid rgba($text-color, 0.2);
+  background: rgba(40, 40, 40, 0.5);
+  border: 2px solid rgba($text-color, 0.4);
   border-radius: 12px;
   padding: 1em 1.25em;
   display: flex;
