@@ -101,29 +101,26 @@ layout: default
     <span id="total-count">—</span> total visits
   </div>
 
-  <script type="module">
-    import { playhtml } from "https://unpkg.com/playhtml";
+<script type="module">
+import { playhtml } from "https://unpkg.com/playhtml";
 
-    playhtml.init();
+console.log("Before init:", playhtml);
 
-    // Total visits
-    const visits = playhtml.createPageData("visit-count", { count: 0 });
+await playhtml.init({
+  developmentMode: true,
+  cursors: { enabled: true }
+});
 
-    visits.setData((draft) => {
-      draft.count += 1;
-    });
+console.log("After init:", playhtml);
+console.log("Methods:", Object.keys(playhtml));
 
-    visits.onUpdate((data) => {
-      document.getElementById("total-count").textContent =
-        data.count.toLocaleString();
-    });
-
-    // Online now
-    playhtml.presence.onPresenceChange("cursor", (presences) => {
-      document.getElementById("online-count").textContent =
-        presences.size;
-    });
-  </script>
+try {
+  const visits = playhtml.createPageData("visit-count", { count: 0 });
+  console.log("createPageData works!", visits);
+} catch (e) {
+  console.error(e);
+}
+</script>
 </main>
 
 </main>
