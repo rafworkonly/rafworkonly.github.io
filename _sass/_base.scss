@@ -420,14 +420,16 @@ p, h1, h2, h3, h4, h5, h6, li, td {
   color: #d0d0d0;  // light grey
   white-space: nowrap;
 }
+.site-navigation ul {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
 #visitor-widget {
-    position: fixed;
-    top: 24px;
-    right: 24px;
-
-    z-index: 1000;
-
+    margin-left: auto;
+    white-space: nowrap;
     font-size: 0.85rem;
     color: #777;
-    text-align: right;
+    font-weight: normal;
 }
