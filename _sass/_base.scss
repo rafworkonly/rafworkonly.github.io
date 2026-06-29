@@ -393,9 +393,9 @@ p, h1, h2, h3, h4, h5, h6, li, td {
 .achievement-text {
   display: flex;
   flex-direction: column;
-  gap: 0;
+  gap: 0.3;
   min-width: 0; // prevents text overflow out of flex container
-  padding: 0 0.75em;
+  padding:0 0.75em 0 1em;  // left padding creates the gap from the icon
 }
 
 .achievement-title {
