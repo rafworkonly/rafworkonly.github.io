@@ -50,5 +50,78 @@
         }
       });
     </script>
+    <script>
+  // Achievement definitions
+  var achievements = {
+    reader: {
+      id: 'reader',
+      name: 'What a Nerd!',
+      desc: "You've read 5 posts",
+      icon: '/assets/images/achievement.png'
+    },
+    commenter: {
+      id: 'commenter',
+      name: 'Talkative Guy',
+      desc: 'You left your first comment',
+      icon: '/assets/images/achievement.png'
+    },
+    visitor: {
+      id: 'visitor',
+      name: 'Do you come here often?',
+      desc: "You've visited 10 times",
+      icon: '/assets/images/achievement.png'
+    }
+  };
+
+  function showAchievement(achievement) {
+    var existing = document.getElementById('achievement-popup');
+    if (existing) existing.remove();
+
+    var popup = document.createElement('div');
+    popup.id = 'achievement-popup';
+    popup.innerHTML = `
+      <img src="${achievement.icon}" alt="achievement icon">
+      <div>
+        <div class="achievement-title">Achievement Unlocked</div>
+        <div class="achievement-name">${achievement.name}</div>
+        <div class="achievement-desc">${achievement.desc}</div>
+      </div>
+    `;
+    document.body.appendChild(popup);
+
+    setTimeout(function() { popup.classList.add('show'); }, 100);
+    setTimeout(function() {
+      popup.classList.remove('show');
+      setTimeout(function() { popup.remove(); }, 500);
+    }, 4000);
+  }
+
+  function unlockAchievement(id) {
+    var unlocked = JSON.parse(localStorage.getItem('achievements') || '{}');
+    if (unlocked[id]) return;
+    unlocked[id] = true;
+    localStorage.setItem('achievements', JSON.stringify(unlocked));
+    showAchievement(achievements[id]);
+  }
+
+  // Track visits
+  var visits = parseInt(localStorage.getItem('visitCount') || '0') + 1;
+  localStorage.setItem('visitCount', visits);
+  if (visits >= 10) unlockAchievement('visitor');
+
+  // Track post reads
+  if (document.querySelector('.post')) {
+    var reads = parseInt(localStorage.getItem('postReads') || '0') + 1;
+    localStorage.setItem('postReads', reads);
+    if (reads >= 5) unlockAchievement('reader');
+  }
+
+  // Track comment attempts
+  document.addEventListener('click', function(e) {
+    if (e.target.closest('#cusdis_thread')) {
+      unlockAchievement('commenter');
+    }
+  });
+</script>
   </body>
 </html>
