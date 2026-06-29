@@ -420,16 +420,17 @@ p, h1, h2, h3, h4, h5, h6, li, td {
   color: #d0d0d0;  // light grey
   white-space: nowrap;
 }
-.site-navigation ul {
-    display: flex;
-    align-items: center;
-    width: 100%;
+.site-navigation {
+    position: relative;
 }
 
 #visitor-widget {
-    margin-left: auto;
-    white-space: nowrap;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+
     font-size: 0.85rem;
     color: #777;
-    font-weight: normal;
+    white-space: nowrap;
 }
