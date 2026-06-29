@@ -1,35 +1,24 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   <head>
-    
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
     <title>{{ site.title }}{% if page.title and page.title != "" %} &mdash; {{ page.title }}{% endif %}</title>
-
     {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}  
-
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}?{{ site.time | date: '%s%N' }}">
-
     <link rel="apple-touch-icon" href="{{ site.icon }}">
-
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
       {%- include google-analytics.html -%}
     {%- endif -%}
-<meta property="og:title" content="{{ site.title }}">
-<meta property="og:description" content="{{ site.description }}">
-<meta property="og:image" content="{{ '/assets/images/preview.png' | absolute_url }}">
-<meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:image" content="{{ '/assets/images/preview.png' | absolute_url }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
   </head>
   <body>
-
-
-
     {{ content }}
-
     {% include menu.html %}
-
     {% unless site.hide_credits %}
       <aside class="site-credits">
         <p>
@@ -37,31 +26,28 @@
         </p>
       </aside>
     {% endunless %}
-
-</script>
+    <script>
+      var originalTitle = document.title;
+      var messages = [
+        "finish reading me... ",
+        "ǝɹɐɥs oʇ ǝɔɐld ∀",
+        "(◐ω◑ )",
+        "(－_－) zzZ",
+      ];
+      var messageIndex = 0;
+      var awayTimer = null;
+      document.addEventListener('visibilitychange', function() {
+        if (document.hidden) {
+          awayTimer = setInterval(function() {
+            document.title = messages[messageIndex % messages.length];
+            messageIndex++;
+          }, 2000);
+        } else {
+          clearInterval(awayTimer);
+          messageIndex = 0;
+          document.title = originalTitle;
+        }
+      });
+    </script>
   </body>
-  <script>
-  var originalTitle = document.title;
-  var messages = [
-    "finish reading me... ",
-    "ǝɹɐɥs oʇ ǝɔɐld ∀",
-    "(◐ω◑ )",
-    "(－_－) zzZ",
-  ];
-  var messageIndex = 0;
-  var awayTimer = null;
-
-  document.addEventListener('visibilitychange', function() {
-    if (document.hidden) {
-      awayTimer = setInterval(function() {
-        document.title = messages[messageIndex % messages.length];
-        messageIndex++;
-      }, 2000);
-    } else {
-      clearInterval(awayTimer);
-      messageIndex = 0;
-      document.title = originalTitle;
-    }
-  });
-</script>
 </html>
