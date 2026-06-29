@@ -1,15 +1,12 @@
 {% assign menu = site.data.menu %}
-
 {% if menu %}
 <nav class="site-navigation" role="navigation">
-
   <ul>
     <li>
       <a href="{{ '/' | prepend: site.baseurl }}">
         Home
       </a>
     </li>
-
     {% for item in site.data.menu %}
       <li {% if page.url == item.url %}class="active"{% endif %}>
         {% if item.url contains 'http' %}
@@ -24,11 +21,11 @@
       </li>
     {% endfor %}
   </ul>
-
+  {% unless include.bottom %}
   <div id="visitor-widget">
     <span id="online-count">—</span> online now 👁 &nbsp;|&nbsp;
     <span id="total-count">—</span> total visits
   </div>
-
+  {% endunless %}
 </nav>
 {% endif %}
