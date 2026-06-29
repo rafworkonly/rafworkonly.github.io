@@ -124,5 +124,26 @@
     }
   });
 </script>
+    <script type="module">
+import { playhtml } from "https://unpkg.com/playhtml";
+
+await playhtml.init();
+
+const visits = playhtml.createPageData("visit-count", { count: 0 });
+
+visits.setData((draft) => {
+  draft.count += 1;
+});
+
+visits.onUpdate((data) => {
+  document.getElementById("total-count").textContent =
+    data.count.toLocaleString();
+});
+
+playhtml.presence.onPresenceChange("cursor", (presences) => {
+  document.getElementById("online-count").textContent =
+    presences.size;
+});
+</script>
   </body>
 </html>
