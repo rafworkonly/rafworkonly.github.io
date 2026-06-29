@@ -8,12 +8,10 @@ This site is a place to engage with your local community. It's free, open-source
 
 To make a submission: 
 
-We recommend you sit down with a piece of paper and a pen and handwrite your message. Send a photo/scan, and we can type it up with you.
+We recommend you sit down with a piece of paper and a pen and handwrite your message. Send a photo/scan, and we can type it up with you. There's no length too long or too short. Submit a one sentence poem if you like.
 
 We advise you to:
 - Say what you wanna say (any topic) 
-- Be honest 
-- Be unique
 
 Some questions to ask yourself could include:
 - What do I want to tell the world?
@@ -28,6 +26,6 @@ Some questions to ask yourself could include:
 
 You can:
 - Add photos if you send them via whatsapp (send them HD if possible)
-- Contribute to the project in another way
+- Contribute to the project in another way, it's possible to add videos or audio or you could even contribute to improving the site. 
 
 Enjoy writing!
