@@ -357,7 +357,7 @@ p, h1, h2, h3, h4, h5, h6, li, td {
   min-height: 600px;
 }
 #achievement-popup {
-  height: 70px;  // constrain the height directly
+  height: 75px;  // constrain the height directly
   position: fixed;
   bottom: 2em;
   right: 2em;
@@ -377,8 +377,8 @@ p, h1, h2, h3, h4, h5, h6, li, td {
   box-shadow: 0 0 0 1px #111, 0 4px 16px rgba(0,0,0,0.6);
 
   img {
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     flex-shrink: 0;
     display: block;
     image-rendering: pixelated;
