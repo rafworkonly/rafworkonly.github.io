@@ -93,6 +93,39 @@ layout: default
     </div>
   {% endif %}
 
+<body>
+
+  <!-- visitor counter widget -->
+  <div id="visitor-widget" style="font-size:14px;">
+    <span id="online-count">—</span> online now &nbsp;|&nbsp;
+    <span id="total-count">—</span> total visits
+  </div>
+
+  <script type="module">
+    import { playhtml } from "https://unpkg.com/playhtml";
+
+    playhtml.init();
+
+    // Total visits
+    const visits = playhtml.createPageData("visit-count", { count: 0 });
+
+    visits.setData((draft) => {
+      draft.count += 1;
+    });
+
+    visits.onUpdate((data) => {
+      document.getElementById("total-count").textContent =
+        data.count.toLocaleString();
+    });
+
+    // Online now
+    playhtml.presence.onPresenceChange("cursor", (presences) => {
+      document.getElementById("online-count").textContent =
+        presences.size;
+    });
+  </script>
+</main>
+
 </main>
 
 <!-- parallax kept for later use -->
