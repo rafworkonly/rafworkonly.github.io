@@ -1,13 +1,14 @@
 {% assign menu = site.data.menu %}
 
 {% if menu %}
-  <nav class="site-navigation" role="navigation">
-    <ul>
-      <li>
-        <a href="{{ '/' | prepend: site.baseurl }}">
-          Home
-        </a>
-      </li>
+<nav class="site-navigation" role="navigation">
+  <ul class="nav-links">
+    <li>
+      <a href="{{ '/' | prepend: site.baseurl }}">
+        Home
+      </a>
+    </li>
+
     {% for item in site.data.menu %}
       <li {% if page.url == item.url %}class="active"{% endif %}>
         {% if item.url contains 'http' %}
@@ -21,6 +22,12 @@
         {% endif %}
       </li>
     {% endfor %}
-    </ul>
-  </nav>
+
+    <li class="visitor-counter">
+      <span id="online-count">—</span> online
+      <span class="separator">•</span>
+      <span id="total-count">—</span> visits
+    </li>
+  </ul>
+</nav>
 {% endif %}
