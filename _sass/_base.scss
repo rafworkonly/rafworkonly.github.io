@@ -357,13 +357,14 @@ p, h1, h2, h3, h4, h5, h6, li, td {
   min-height: 600px;
 }
 #achievement-popup {
+  height: 60px;  // constrain the height directly
   position: fixed;
   bottom: 2em;
   right: 2em;
   background: #1e1e1e;
   border: 3px solid #3a3a3a;
   border-radius: 10px;
-  padding: 0;
+  padding: 0 1em;  // no top/bottom padding, keep left/right
   overflow: hidden;
   display: flex;
   align-items: center;
