@@ -397,7 +397,7 @@ p, h1, h2, h3, h4, h5, h6, li, td {
 .achievement-title {
   font-size: 0.95em;
   font-family: monospace;
-  color: #d966d6;
+  color: #d0d0d0;  // light grey 
   white-space: nowrap;
 }
 
@@ -405,5 +405,12 @@ p, h1, h2, h3, h4, h5, h6, li, td {
   font-size: 0.9em;
   font-family: monospace;
   color: #ffffff;
+  white-space: nowrap;
+}
+
+.achievement-desc {
+  font-size: 0.85em;
+  font-family: monospace;
+  color: #d0d0d0;  // light grey 
   white-space: nowrap;
 }
