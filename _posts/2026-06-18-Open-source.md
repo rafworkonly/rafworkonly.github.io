@@ -17,12 +17,8 @@ Free AI image upscaler, <a href="https://free.upscaler.video/">Upscaler</a> <br>
 Computer operating system, <a href="https://www.debian.org/">Debian</a> <br> 
 Molecular dynamics, <a href="https://www.gromacs.org/">Gromacs</a> <br>
 Microcontroller IDE, <a href="https://docs.arduino.cc/software/ide/">Arduino</a> <br>
-
-There is lots of good software that is free but not open source. I've added a few below.
-
-Math tools, <a href="https://www.desmos.com/">Desmos</a> <br>
 Technical or scientific documents, <a href="https://www.texstudio.org/">LaTeX</a> <br>
 
-If you have any more ideas let me know and I will add them.
+If you have any more ideas let me know and I will add them. 
 
 ![porridge](/assets/images/porridge.jpg)
