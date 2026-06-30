@@ -5,52 +5,22 @@ title: Letter to an Academic Supervisor
 date: 2026-04-27
 ---
 
-We have been working together since August 2025, and I began my PhD in January 2026.
-Throughout this time, I have made a consistent effort to engage in a professional, respectful,
-and academically honest manner. However, I have found communication between us to be
-challenging, and this has significantly affected my experience of the PhD so far.
+We have been working together since August 2025, and I started my PhD in January 2026. Despite my efforts to be professional, respectful, academically honest, and kind, I have had a very difficult time communicating with you.
 
-As we both recognise, there is a substantial power imbalance in our working relationship,
-given your roles as both my supervisor and the director of the funding body. This context
-makes clarity, care, and consistency in communication particularly important.
+As we both know, there is a significant power imbalance in our relationship, with you being both my supervisor and the director of the funding body.
 
-My main concern relates to several comments and interactions that I have experienced as
-insensitive, and which have had a detrimental effect on my mental health. I would like to
-explain these concerns clearly, not to assign blame, but to communicate their impact.
-For example, in reference to my calibration of models originally constructed by a
-postdoctoral researcher in the group, you described the work as “incompetent.” I
-experienced this as discouraging and undermining. While critical feedback is essential to
-academic development, phrasing of this nature feels demotivating and difficult to engage
-with constructively.
+My main concern stems from various insensitive phrases you have said, which have had a serious and detrimental effect on my mental health.
 
-In another instance, your report stated that you “questioned whether Ignacy had studied
-chemical engineering at the undergraduate level.” Given that I have completed such a
-degree, I perceived this comment as a questioning of my academic legitimacy rather than a
-critique of a specific skill or gap in knowledge.
+For instance, referring to my analysis of models that a postdoc in the group had built, you said, 'This work is incompetent.' I personally believe this is not something you should say to a student of yours. It is undermining, degrading, and does not motivate the student to perform.
 
-I was also concerned by comments suggesting that I might be removed from the PhD
-program following our tour and discussion of laboratory equipment. My stipend is my sole
-source of income, and I relocated from London to Cambridge in order to undertake this
-project. As such, statements of this nature caused me considerable distress and felt
-disproportionate to the situation.
+Additionally, in your report, you wrote, 'I questioned whether Ignacy had studied chemical engineering at the undergraduate level.' I perceived this as a personal attack, since I have, in fact, completed a degree.
 
-Additionally, references to former students who did not succeed or projects that failed have,
-from my perspective, created an atmosphere of fear-based motivation. While I recognise that
-these examples may not be intended that way, their cumulative effect has been unsettling
-and has increased my anxiety about my role and security in the programme.
+Furthermore, suggesting you might 'kick me off' the PhD program after our tour and discussion of the laboratory equipment was very unreasonable. My stipend is my largest and only source of income. I moved from London to Cambridge to complete this PhD project and have invested a lot of time and energy into it.
 
-Beyond interpersonal concerns, I have also struggled with the level of ambiguity in the
-scientific tasks I am set. Instructions and expectations are often unclear, and in email
-exchanges my specific questions are not always directly addressed. While developing
-independence is a critical part of doctoral training, I believe this can coexist with clear,
-concrete guidance, particularly for a new PhD student.
+You have repeatedly mentioned past students who failed or projects that did not go to plan. I experience this as fear-based motivation, whether intended or not.
 
-In terms of moving forward, I would like to propose that we involve an independent, senior
-third party with subject-area expertise in our meetings. I believe this could help clarify
-technical aspects of the project, support more effective communication, and create a more
-stable and productive working environment for both of us.
+Beyond these comments, I find that the scientific tasks you set are often very vague and ambiguous. This is exemplified by many email conversations where you do not clearly and simply answer the questions I ask. Your students can learn to be independent whilst you still provide clear, concrete tasks and answers for new starters.
 
-I would like to clearly outline what a productive and supportive supervisory relationship looks
-like from my perspective, in the hope that this helps align our expectations... 
+As for a way to move forward, I propose that we involve an independent and senior third party in our meetings who has knowledge of the subject area. This may help in clarifying some technical details of the project and improve our communication.
 
 ![photo of river](/assets/images/office.jpeg)
