@@ -53,4 +53,4 @@ stable and productive working environment for both of us.
 I would like to clearly outline what a productive and supportive supervisory relationship looks
 like from my perspective, in the hope that this helps align our expectations... 
 
-![photo of river](/assets/images/office.jpg)
+![photo of river](/assets/images/office.jpeg)
