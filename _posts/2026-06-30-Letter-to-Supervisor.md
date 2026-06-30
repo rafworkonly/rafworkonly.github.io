@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Iggy & K"
+author: "Iggy"
 title: Letter to an Academic Supervisor
 date: 2026-04-27
 ---
