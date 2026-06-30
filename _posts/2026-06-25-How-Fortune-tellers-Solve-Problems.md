@@ -37,7 +37,7 @@ Walking back through the rain, I wasn't any more convinced that this woman could
   <div class="dark-vignette"></div>
   <div class="candle-glow"></div>
   <div class="candle"><div class="flame"></div></div>
-  <p class="ft-prompt">&ldquo;sit. let&rsquo;s play a game.&rdquo;</p>
+ <p class="ft-prompt">The fortune teller's tent</p>
 </div>
 
 <style>
