@@ -1,9 +1,10 @@
 ---
-title: "Letter to an academic supervisor"
 layout: post
-author: "Iggy"
-categories: opinion
+author: "Iggy & K"
+title: Letter to an Academic Supervisor
+date: 2026-04-27
 ---
+
 We have been working together since August 2025, and I began my PhD in January 2026.
 Throughout this time, I have made a consistent effort to engage in a professional, respectful,
 and academically honest manner. However, I have found communication between us to be
@@ -50,24 +51,6 @@ technical aspects of the project, support more effective communication, and crea
 stable and productive working environment for both of us.
 
 I would like to clearly outline what a productive and supportive supervisory relationship looks
-like from my perspective, in the hope that this helps align our expectations.
+like from my perspective, in the hope that this helps align our expectations... 
 
-• Discussions should focus primarily on the work itself, rather than on me personally.
-Feedback would ideally identify both strengths and areas requiring improvement,
-allowing me to build confidence while making progress.
-• A substantial portion of feedback should be provided in written form, particularly in
-response to written work I have submitted, so that I can revisit and act on it carefully.
-• Technical errors are an expected and normal part of research. When they occur, I
-believe our focus should remain on identifying their origin and resolving them, rather
-than on attribution of fault.
-• Our discussions should be grounded in the relevant literature, introduced by both of
-us where appropriate. I am very willing to present the majority of this material, and I
-ask that key papers I circulate in advance are read ahead of meetings, especially
-where they are central to the direction of the project.
-• To minimise ambiguity, it would be very helpful if we could agree on a small number
-of concrete and reasonable tasks before the end of each meeting. This would enable
-me to work independently and productively between meetings.
-• Going forward, I will provide brief written summaries after meetings. If there is a
-significant difference between my written understanding and your intended meaning,
-I would appreciate a written response so that we can resolve misunderstandings
-efficiently.
+![photo of river](/assets/images/river-cam.jpg)
