@@ -27,8 +27,8 @@ Walking back through the rain, I wasn't any more convinced that this woman could
 
 ![izakaya](/assets/images/izakaya.png)
 
-<div id="ft-entrance">
-  <img src="{{ '/assets/images/kilroy.png' | absolute_url }}" id="ft-trigger" alt="A strange figure peers out" style="cursor: pointer; max-width: 100%;">
+<div id="ft-entrance" style="position: relative; height: 220px; margin: 2em 0;">
+  <img src="{{ '/assets/images/kilroy.png' | absolute_url }}" id="ft-trigger" alt="A strange figure peers out" style="cursor: pointer; position: absolute; left: 85%; top: 0; height: 220px; width: auto; z-index: 5;">
 </div>
 
 <div class="ft-overlay" id="ftOverlay">
