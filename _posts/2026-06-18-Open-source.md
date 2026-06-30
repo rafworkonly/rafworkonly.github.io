@@ -26,4 +26,4 @@ Technical or scientific documents, <a href="https://www.latex-project.org/about/
 
 If you have any more ideas let me know and I will add them.
 
-![porridge](/assets/images/porridge.jpeg)
+![porridge](/assets/images/porridge.jpg)
