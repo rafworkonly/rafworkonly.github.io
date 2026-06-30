@@ -23,4 +23,4 @@ Beyond these comments, I find that the scientific tasks you set are often very v
 
 As for a way to move forward, I propose that we involve an independent and senior third party in our meetings who has knowledge of the subject area. This may help in clarifying some technical details of the project and improve our communication.
 
-![photo of river](/assets/images/office.jpeg)
+![photo of library](/assets/images/prison.jpeg)
