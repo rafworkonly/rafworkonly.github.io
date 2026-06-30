@@ -220,6 +220,31 @@ layout: null
     }
 
     .content.dealt .hint { opacity: 1; }
+    @media (max-width: 480px) {
+  body {
+    font-size: 1.05em;
+  }
+
+  .card {
+    width: 100px;
+    height: 144px;
+  }
+
+  .card-1 { transform: translateX(-220%) rotate(-10deg) translateY(10px); }
+  .card-3 { transform: translateX(140%) rotate(9deg) translateY(10px); }
+
+  .content.dealt .card-1 { transform: translateX(-140%) rotate(-7deg); }
+  .content.dealt .card-3 { transform: translateX(60%) rotate(6deg); }
+
+  .card-sigil svg {
+    width: 30px;
+    height: 30px;
+  }
+
+  .prompt {
+    font-size: 14px;
+    padding: 0 1em;
+  }
   </style>
 </head>
 <body>
