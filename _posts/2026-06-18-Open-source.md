@@ -25,3 +25,5 @@ Math explanations and visuals, <a href="https://www.3blue1brown.com/">3blue1brow
 Technical or scientific documents, <a href="https://www.latex-project.org/about/">LaTeX</a> <br>
 
 If you have any more ideas let me know and I will add them.
+
+![porridge](/assets/images/porridge.jpeg)
