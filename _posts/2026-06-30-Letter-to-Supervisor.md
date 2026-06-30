@@ -43,7 +43,7 @@ Beyond interpersonal concerns, I have also struggled with the level of ambiguity
 scientific tasks I am set. Instructions and expectations are often unclear, and in email
 exchanges my specific questions are not always directly addressed. While developing
 independence is a critical part of doctoral training, I believe this can coexist with clear,
-concrete guidance - particularly for a new PhD student.
+concrete guidance, particularly for a new PhD student.
 
 In terms of moving forward, I would like to propose that we involve an independent, senior
 third party with subject-area expertise in our meetings. I believe this could help clarify
