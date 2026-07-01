@@ -17,17 +17,17 @@ layout: null
       background: #050302;
       min-height: 100vh;
       font-size: 1.3em;
-      overflow-x: hidden;
+      overflow: hidden;
     }
 
     .stage {
       position: relative;
       width: 100%;
-      min-height: 100vh;
+      height: 100vh;
       display: flex;
       flex-direction: column;
       align-items: center;
-      padding: 2em 1.5em 4em;
+      padding: 2em 1.5em 0;
     }
 
     .back-link {
@@ -92,7 +92,7 @@ layout: null
 
     .candle-row {
       position: relative;
-      margin: 2em 0 1em;
+      margin: 1.5em 0 1em;
       height: 60px;
       width: 100%;
       display: flex;
@@ -136,6 +136,8 @@ layout: null
       cursor: pointer;
       margin-bottom: 1.5em;
       transition: border-color 0.2s, color 0.2s, opacity 0.6s;
+      position: relative;
+      z-index: 10;
     }
 
     .deal-btn:hover {
@@ -153,32 +155,54 @@ layout: null
       border: none;
     }
 
-    /* TABLE */
-.table-scene {
-  width: 100%;
-  max-width: 1200px;
-  position: fixed;
-  bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  perspective: 800px;
-}
+    .hint {
+      position: fixed;
+      bottom: 2em;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 14px;
+      color: #4a3c28;
+      letter-spacing: 0.05em;
+      text-align: center;
+      opacity: 0;
+      transition: opacity 0.6s ease 1s;
+      z-index: 20;
+      white-space: nowrap;
+    }
 
-.table-img {
-  width: 100%;
-  display: block;
-  filter: brightness(0.7);
-}
+    .hint.show { opacity: 1; }
+
+    /* TABLE */
+    .table-scene {
+      position: fixed;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 100%;
+      max-width: 1200px;
+      z-index: 2;
+      pointer-events: none;
+    }
+
+    .table-img {
+      width: 100%;
+      display: block;
+      filter: brightness(0.7);
+    }
+
+    /* CARDS */
     .cards {
-  position: absolute;
-  top: 20%;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 70%;
-  display: flex;
-  justify-content: space-around;
-  perspective: 800px;
-}
+      position: fixed;
+      bottom: 32%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 55%;
+      max-width: 480px;
+      display: flex;
+      justify-content: space-around;
+      perspective: 800px;
+      z-index: 10;
+    }
 
     .card-wrap {
       perspective: 600px;
@@ -193,14 +217,14 @@ layout: null
       transform-style: preserve-3d;
       transition: transform 0.9s cubic-bezier(.4,0,.2,1), opacity 0.8s ease;
       cursor: pointer;
-      transform: rotateX(55deg) translateY(0px);
+      transform: rotateX(55deg);
       opacity: 0;
     }
 
-    .content.dealt .card { opacity: 1; }
-    .content.dealt .card-1 { transition-delay: 0.1s; }
-    .content.dealt .card-2 { transition-delay: 0.35s; }
-    .content.dealt .card-3 { transition-delay: 0.6s; }
+    #cards.dealt .card { opacity: 1; }
+    #cards.dealt .card-1 { transition-delay: 0.1s; }
+    #cards.dealt .card-2 { transition-delay: 0.35s; }
+    #cards.dealt .card-3 { transition-delay: 0.6s; }
 
     .card.flipped {
       transform: rotateX(-15deg) translateY(-60px) rotateY(180deg) !important;
@@ -247,26 +271,15 @@ layout: null
       font-style: italic;
     }
 
-    .hint {
-      margin-top: 3em;
-      font-size: 12px;
-      color: #4a3c28;
-      letter-spacing: 0.05em;
-      text-align: center;
-      opacity: 0;
-      transition: opacity 0.6s ease 1s;
-    }
-
-    .content.dealt .hint { opacity: 1; }
-
     @media (max-width: 480px) {
       body { font-size: 1.05em; }
-      .card-wrap { width: 85px; height: 124px; }
-      .card { width: 85px; height: 124px; }
-      .card-back svg { width: 26px; height: 26px; }
-      .card-fortune { font-size: 9px; }
+      .card-wrap { width: 80px; height: 116px; }
+      .card { width: 80px; height: 116px; }
+      .card-back svg { width: 24px; height: 24px; }
+      .card-fortune { font-size: 8px; }
       .prompt { font-size: 22px; padding: 0 1em; }
       .deal-btn { font-size: 22px; }
+      .cards { width: 85%; bottom: 28%; }
     }
   </style>
 </head>
@@ -279,56 +292,59 @@ layout: null
 
   <div class="content" id="content">
     <p class="prompt">&ldquo;PICK YOUR CARD.&rdquo;</p>
-
     <div class="candle-row">
       <div class="candle"><div class="flame"></div></div>
     </div>
-
     <button class="deal-btn" id="dealBtn" onclick="dealCards()">TRUST THE CARDS.</button>
-
-    <div class="table-scene">
-      <img src="{{ '/assets/images/table.png' | absolute_url }}" class="table-img" alt="A dark wooden table">
-      <div class="cards">
-        <div class="card-wrap">
-          <div class="card card-1" onclick="flipCard(this)">
-            <div class="card-back">
-              <svg viewBox="0 0 24 24" fill="none" stroke="#8a7350" stroke-width="1"><circle cx="12" cy="12" r="8"/><path d="M12 4v16M4 12h16"/></svg>
-            </div>
-            <div class="card-face">
-              <div class="card-fortune">In the near future you will meet someone very important.</div>
-            </div>
-          </div>
-        </div>
-        <div class="card-wrap">
-          <div class="card card-2" onclick="flipCard(this)">
-            <div class="card-back">
-              <svg viewBox="0 0 24 24" fill="none" stroke="#8a7350" stroke-width="1"><path d="M12 2l3 7h7l-5.5 4.5L18 21l-6-4-6 4 1.5-7.5L2 9h7z"/></svg>
-            </div>
-            <div class="card-face">
-              <div class="card-fortune">Consider whether things are really as they seem.</div>
-            </div>
-          </div>
-        </div>
-        <div class="card-wrap">
-          <div class="card card-3" onclick="flipCard(this)">
-            <div class="card-back">
-              <svg viewBox="0 0 24 24" fill="none" stroke="#8a7350" stroke-width="1"><path d="M12 3v18M5 8l7-5 7 5M5 16l7 5 7-5"/></svg>
-            </div>
-            <div class="card-face">
-              <div class="card-fortune">Maybe make a nice sandwich.</div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <p class="hint">TRUST THE CARDS.</p>
   </div>
 </div>
+
+<div class="table-scene">
+  <img src="{{ '/assets/images/table.png' | absolute_url }}" class="table-img" alt="A dark wooden table">
+</div>
+
+<div class="cards" id="cards">
+  <div class="card-wrap">
+    <div class="card card-1" onclick="flipCard(this)">
+      <div class="card-back">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#8a7350" stroke-width="1"><circle cx="12" cy="12" r="8"/><path d="M12 4v16M4 12h16"/></svg>
+      </div>
+      <div class="card-face">
+        <div class="card-fortune">In the near future you will meet someone very important.</div>
+      </div>
+    </div>
+  </div>
+  <div class="card-wrap">
+    <div class="card card-2" onclick="flipCard(this)">
+      <div class="card-back">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#8a7350" stroke-width="1"><path d="M12 2l3 7h7l-5.5 4.5L18 21l-6-4-6 4 1.5-7.5L2 9h7z"/></svg>
+      </div>
+      <div class="card-face">
+        <div class="card-fortune">Consider whether things are really as they seem.</div>
+      </div>
+    </div>
+  </div>
+  <div class="card-wrap">
+    <div class="card card-3" onclick="flipCard(this)">
+      <div class="card-back">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#8a7350" stroke-width="1"><path d="M12 3v18M5 8l7-5 7 5M5 16l7 5 7-5"/></svg>
+      </div>
+      <div class="card-face">
+        <div class="card-fortune">Maybe make a nice sandwich.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<p class="hint" id="hint">TRUST THE CARDS.</p>
 
 <script>
   function dealCards() {
     document.getElementById('content').classList.add('dealt');
+    document.getElementById('cards').classList.add('dealt');
+    setTimeout(function() {
+      document.getElementById('hint').classList.add('show');
+    }, 1200);
   }
 
   function flipCard(card) {
