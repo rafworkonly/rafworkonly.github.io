@@ -1,8 +1,9 @@
 ---
 layout: post
 author: "Nicole"
-title: My Substack
+title: Nicky's Journey
 date: 2026-07-02
 ---
-Substack, <a href="https://nicolepezza.substack.com/">Nicky's Journey</a> <br>
+
+<a href="https://nicolepezza.substack.com/">Link to Substack</a> <br>
 
