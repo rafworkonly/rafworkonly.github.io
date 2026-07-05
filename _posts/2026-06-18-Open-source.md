@@ -21,4 +21,4 @@ Technical or scientific documents, <a href="https://www.texstudio.org/">LaTeX</a
 
 If you have any more ideas let me know and I will add them. 
 
-![porridge](/assets/images/porridge.jpg)
+![room](/assets/images/tidy-room-H.jpeg)
