@@ -12,12 +12,16 @@ layout: null
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
+    html, body {
+      overflow: hidden;
+      height: 100%;
+      width: 100%;
+    }
+
     body {
       font-family: 'IM Fell English', serif;
       background: #050302;
-      min-height: 100vh;
       font-size: 1.3em;
-      overflow: hidden;
     }
 
     .stage {
@@ -217,7 +221,7 @@ layout: null
       transform-style: preserve-3d;
       transition: transform 0.9s cubic-bezier(.4,0,.2,1), opacity 0.8s ease;
       cursor: pointer;
-      transform: rotateX(55deg);
+      transform: rotateX(70deg);
       opacity: 0;
     }
 
@@ -227,7 +231,7 @@ layout: null
     #cards.dealt .card-3 { transition-delay: 0.6s; }
 
     .card.flipped {
-      transform: rotateX(-15deg) translateY(-60px) rotateY(180deg) !important;
+      transform: rotateX(-5deg) translateY(-80px) rotateY(180deg) !important;
     }
 
     .card-face, .card-back {
@@ -271,15 +275,40 @@ layout: null
       font-style: italic;
     }
 
+    /* RESPONSIVE */
+    @media (max-width: 768px) {
+      .cards {
+        width: 80%;
+        bottom: 35%;
+      }
+      .card-wrap { width: 90px; height: 130px; }
+      .card { width: 90px; height: 130px; }
+      .card-back svg { width: 28px; height: 28px; }
+      .card-fortune { font-size: 9px; }
+    }
+
     @media (max-width: 480px) {
       body { font-size: 1.05em; }
-      .card-wrap { width: 80px; height: 116px; }
-      .card { width: 80px; height: 116px; }
-      .card-back svg { width: 24px; height: 24px; }
+      .cards {
+        width: 90%;
+        bottom: 28%;
+      }
+      .card-wrap { width: 75px; height: 110px; }
+      .card { width: 75px; height: 110px; }
+      .card-back svg { width: 22px; height: 22px; }
       .card-fortune { font-size: 8px; }
       .prompt { font-size: 22px; padding: 0 1em; }
       .deal-btn { font-size: 22px; }
-      .cards { width: 85%; bottom: 28%; }
+    }
+
+    @media (min-width: 1400px) {
+      .cards {
+        bottom: 45%;
+        max-width: 600px;
+      }
+      .card-wrap { width: 140px; height: 200px; }
+      .card { width: 140px; height: 200px; }
+      .card-fortune { font-size: 13px; }
     }
   </style>
 </head>
@@ -342,6 +371,7 @@ layout: null
   function dealCards() {
     document.getElementById('content').classList.add('dealt');
     document.getElementById('cards').classList.add('dealt');
+    document.querySelector('.candle-row').style.display = 'none';
     setTimeout(function() {
       document.getElementById('hint').classList.add('show');
     }, 1200);
