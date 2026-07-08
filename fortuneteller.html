@@ -209,7 +209,6 @@ layout: null
     }
 
     .card-wrap {
-      perspective: 1200px;
       width: 110px;
       height: 160px;
     }
@@ -224,19 +223,18 @@ layout: null
       opacity: 0;
     }
 
-    /* each card lies flat but outer cards fan outward */
-    .card-1 { transform: rotateX(65deg) rotateY(15deg); }
-    .card-2 { transform: rotateX(65deg) rotateY(0deg); }
-    .card-3 { transform: rotateX(65deg) rotateY(-15deg); }
+    .card-1 { transform: rotateX(65deg) rotateZ(-10deg); }
+    .card-2 { transform: rotateX(65deg) rotateZ(0deg); }
+    .card-3 { transform: rotateX(65deg) rotateZ(10deg); }
 
     #cards.dealt .card { opacity: 1; }
     #cards.dealt .card-1 { transition-delay: 0.1s; }
     #cards.dealt .card-2 { transition-delay: 0.35s; }
     #cards.dealt .card-3 { transition-delay: 0.6s; }
 
-    .card.flipped {
-      transform: rotateX(-5deg) translateY(-80px) translateZ(150px) rotateY(180deg) !important;
-    }
+    .card-1.flipped { transform: rotateX(-5deg) translateY(-80px) translateZ(150px) rotateY(180deg) !important; }
+    .card-2.flipped { transform: rotateX(-5deg) translateY(-80px) translateZ(150px) rotateY(180deg) !important; }
+    .card-3.flipped { transform: rotateX(-5deg) translateY(-80px) translateZ(150px) rotateY(180deg) !important; }
 
     .card.unchosen {
       opacity: 0.3;
@@ -292,7 +290,9 @@ layout: null
       .card { width: 90px; height: 130px; }
       .card-back svg { width: 28px; height: 28px; }
       .card-fortune { font-size: 9px; }
-      .card.flipped { transform: rotateX(-5deg) translateY(-60px) translateZ(100px) rotateY(180deg) !important; }
+      .card-1.flipped,
+      .card-2.flipped,
+      .card-3.flipped { transform: rotateX(-5deg) translateY(-60px) translateZ(100px) rotateY(180deg) !important; }
     }
 
     @media (max-width: 480px) {
@@ -304,7 +304,9 @@ layout: null
       .card-fortune { font-size: 8px; }
       .prompt { font-size: 22px; padding: 0 1em; }
       .deal-btn { font-size: 22px; }
-      .card.flipped { transform: rotateX(-5deg) translateY(-50px) translateZ(80px) rotateY(180deg) !important; }
+      .card-1.flipped,
+      .card-2.flipped,
+      .card-3.flipped { transform: rotateX(-5deg) translateY(-50px) translateZ(80px) rotateY(180deg) !important; }
     }
 
     @media (min-width: 1400px) {
@@ -312,7 +314,9 @@ layout: null
       .card-wrap { width: 140px; height: 200px; }
       .card { width: 140px; height: 200px; }
       .card-fortune { font-size: 13px; }
-      .card.flipped { transform: rotateX(-5deg) translateY(-100px) translateZ(200px) rotateY(180deg) !important; }
+      .card-1.flipped,
+      .card-2.flipped,
+      .card-3.flipped { transform: rotateX(-5deg) translateY(-100px) translateZ(200px) rotateY(180deg) !important; }
     }
   </style>
 </head>
@@ -379,6 +383,9 @@ layout: null
     document.getElementById('cards').classList.add('dealt');
     document.querySelector('.candle-row').style.display = 'none';
     setTimeout(function() {
+      document.querySelectorAll('.card').forEach(function(c) {
+        c.style.transitionDelay = '0s';
+      });
       document.getElementById('hint').classList.add('show');
     }, 1200);
   }
