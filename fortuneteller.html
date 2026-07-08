@@ -223,18 +223,20 @@ layout: null
       opacity: 0;
     }
 
-    .card-1 { transform: rotateX(65deg) rotateZ(-10deg); }
-    .card-2 { transform: rotateX(65deg) rotateZ(0deg); }
-    .card-3 { transform: rotateX(65deg) rotateZ(10deg); }
+    .card-1 { transform: rotateX(-65deg) rotateZ(-10deg); }
+    .card-2 { transform: rotateX(-65deg) rotateZ(0deg); }
+    .card-3 { transform: rotateX(-65deg) rotateZ(10deg); }
 
     #cards.dealt .card { opacity: 1; }
     #cards.dealt .card-1 { transition-delay: 0.1s; }
     #cards.dealt .card-2 { transition-delay: 0.35s; }
     #cards.dealt .card-3 { transition-delay: 0.6s; }
 
-    .card-1.flipped { transform: rotateX(-5deg) translateY(-80px) translateZ(150px) rotateY(180deg) !important; }
-    .card-2.flipped { transform: rotateX(-5deg) translateY(-80px) translateZ(150px) rotateY(180deg) !important; }
-    .card-3.flipped { transform: rotateX(-5deg) translateY(-80px) translateZ(150px) rotateY(180deg) !important; }
+    .card-1.flipped,
+    .card-2.flipped,
+    .card-3.flipped {
+      transform: rotateX(-5deg) translateY(-80px) translateZ(150px) rotateY(180deg) !important;
+    }
 
     .card.unchosen {
       opacity: 0.3;
@@ -377,6 +379,7 @@ layout: null
 
 <script>
   var cardChosen = false;
+  var cardFlipped = false;
 
   function dealCards() {
     document.getElementById('content').classList.add('dealt');
@@ -390,12 +393,30 @@ layout: null
     }, 1200);
   }
 
-  function flipCard(card) {
-    if (cardChosen && !card.classList.contains('flipped')) return;
+  function showCheatMessage() {
+    var existing = document.getElementById('cheat-msg');
+    if (existing) return;
+    var msg = document.createElement('div');
+    msg.id = 'cheat-msg';
+    msg.textContent = 'YOU ONLY HAVE ONE FORTUNE. DO NOT CHEAT.';
+    msg.style.cssText = 'position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);color:#b89868;font-family:"IM Fell English",serif;font-size:22px;letter-spacing:0.1em;text-align:center;z-index:9999;text-shadow:0 0 20px rgba(0,0,0,0.9);pointer-events:none;';
+    document.body.appendChild(msg);
+    setTimeout(function() { msg.remove(); }, 3000);
+  }
 
-    if (card.classList.contains('flipped')) {
+  function flipCard(card) {
+    if (!cardChosen) {
+      cardChosen = true;
+      cardFlipped = true;
+      card.classList.add('flipped');
+      document.getElementById('hint').classList.remove('show');
+      document.querySelectorAll('.card').forEach(function(c) {
+        if (c !== card) c.classList.add('unchosen');
+      });
+    } else if (card.classList.contains('flipped')) {
       card.classList.remove('flipped');
       cardChosen = false;
+      cardFlipped = false;
       document.querySelectorAll('.card').forEach(function(c) {
         c.classList.remove('unchosen');
       });
@@ -403,14 +424,7 @@ layout: null
         document.getElementById('hint').classList.add('show');
       }, 400);
     } else {
-      cardChosen = true;
-      card.classList.add('flipped');
-      document.getElementById('hint').classList.remove('show');
-      document.querySelectorAll('.card').forEach(function(c) {
-        if (c !== card) {
-          c.classList.add('unchosen');
-        }
-      });
+      showCheatMessage();
     }
   }
 </script>
