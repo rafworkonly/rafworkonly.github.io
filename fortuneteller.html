@@ -8,6 +8,10 @@ layout: null
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>The Fortune Teller</title>
   <style>
+    :root {
+      --table-h: clamp(160px, 30vh, 380px);
+    }
+
     @import url('https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&display=swap');
 
     * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
@@ -191,12 +195,17 @@ layout: null
       transform: translateX(-50%);
       width: 100%;
       max-width: 1200px;
+      height: var(--table-h);
+      overflow: hidden;
       z-index: 2;
       pointer-events: none;
     }
 
     .table-img {
       width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center top;
       display: block;
       filter: brightness(0.7);
     }
@@ -208,7 +217,7 @@ layout: null
       --card-w: clamp(64px, 15vw, 140px);
       --card-h: calc(var(--card-w) * 1.4545);
       position: fixed;
-      bottom: clamp(24vh, 40vh, 45vh);
+      bottom: calc(var(--table-h) * 0.55);
       left: 50%;
       transform: translateX(-50%);
       width: min(85vw, 480px);
@@ -311,7 +320,6 @@ layout: null
       .candle-row { margin: 0.4em 0 0.5em; height: 36px; }
       .candle { height: 28px; }
       .deal-btn { margin-bottom: 0.5em; }
-      .cards { bottom: 20vh; }
     }
   </style>
 </head>
