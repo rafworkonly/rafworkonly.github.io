@@ -35,7 +35,7 @@ In the quiet way the colours shift with the<br>
 rising sun<br>
 Or the joy of the baby rocked by its mother<br>
 Or the stretching of each spring<br> 
-of the tendont<br> 
+of the tendon<br> 
 in your legs as you lay on the grass.<br>
 The nothing<br>
 the silence<br>
