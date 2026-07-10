@@ -43,3 +43,5 @@ the boredom<br>
 is consumed<br>
 by our own minds<br>
 in the broken system.<br>
+
+![room](/assets/images/lena-cat-poet.jpeg)
