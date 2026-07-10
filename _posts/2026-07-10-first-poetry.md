@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Lena & Cat"
+author: "Lena and Cat"
 title: Capitalism takes the nothing from you
 date: 2026-07-10
 ---
