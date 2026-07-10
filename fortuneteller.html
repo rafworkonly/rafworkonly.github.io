@@ -311,6 +311,41 @@ layout: null
       font-style: italic;
     }
 
+    .light-fixture {
+      position: absolute;
+      top: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: clamp(60px, 10vw, 120px);
+      z-index: 3;
+      pointer-events: none;
+    }
+
+    #scene {
+      opacity: 0;
+      animation: bulbFlicker 1.3s ease-in-out forwards;
+    }
+
+    @keyframes bulbFlicker {
+      0%   { opacity: 0; }
+      6%   { opacity: 1; }
+      9%   { opacity: 0; }
+      14%  { opacity: 1; }
+      17%  { opacity: 0.15; }
+      20%  { opacity: 1; }
+      26%  { opacity: 0; }
+      32%  { opacity: 1; }
+      36%  { opacity: 0.2; }
+      41%  { opacity: 1; }
+      48%  { opacity: 0; }
+      55%  { opacity: 1; }
+      62%  { opacity: 0.3; }
+      68%  { opacity: 1; }
+      78%  { opacity: 0.6; }
+      85%  { opacity: 1; }
+      100% { opacity: 1; }
+    }
+
     /* Shrink vertical rhythm on short viewports (laptops with small
        browser windows, landscape phones) so the deal button never
        gets pushed out of view — there's no scrolling to rescue it. */
@@ -324,6 +359,8 @@ layout: null
   </style>
 </head>
 <body>
+<div id="scene">
+<img class="light-fixture" src="{{ '/assets/images/overheadlight.png' | absolute_url }}" alt="">
 <div class="stage">
   <a href="{{ '/' | absolute_url }}" class="back-link">&larr; back to site</a>
   <div class="wood"></div>
@@ -377,6 +414,7 @@ layout: null
 </div>
 
 <p class="hint" id="hint">TRUST THE CARDS.</p>
+</div>
 
 <script>
   var chosenCard = null;
