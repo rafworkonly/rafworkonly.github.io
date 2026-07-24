@@ -13,7 +13,7 @@ One day, someone will dream their last dream in English, and I hope it will be a
 Here is a brief impression of a few languages that had their time, that provided some emotion-stricken humans, a long time ago, words to fall in love in and mourn loss with, to spit jealousy out and scream in rage to. I took the liberty of imagining the answer to a question that I keep returning to: what did they dream about?
 
 
-<b>SCYTHIANS</b> <br>
+**SCYTHIANS** <br>
 Rape and pillage. <br>
 Now, I personally dislike the practice of presentism, but wow, those guys loved a fair bit of conquest. As history's first great mounted warriors, the Scythians owed almost everything to horses, including a powerful tool for geographical expansion. They determined social and economic status, provided great material for burial sacrifices, and even facilitated bride kidnapping, a practice so persistent that Kazakhstan introduced a separate offence of coercion into marriage in 2025. 
 
@@ -22,17 +22,17 @@ Where: Pontic–Caspian Steppe (modern Ukraine, southern Russia, and western Kaz
 
 When: c. 900–200 BCE.
 
-<b>TOCHARIANS</b> <br>
+**TOCHARIANS** <br>
 The voice of Buddha, impermanence, and money. <br>
 Scattered around the oases of the Tarim Basin, in what is now China's Xinjiang province, the Tocharians once lived, having wandered to the easternmost reaches of the Indo-European-speaking world, thousands of kilometres from their closest linguistic cousins. There, the Tocharians learnt from Indian pilgrims of a man called Siddharta Gautama (the Buddha), and set forth to translate his centuries-old discourses, the sutras, learning of the ephemerality of all things and the goodness of commerce (Buddha also encouraged his disciples to lend money at interest). In this spirit, they exchanged spices, nuts, and cloth in their home, at the heart of the Silk Road. 
 
 Monks, in the silent seclusion of their monasteries, after a long night translating sacred texts from Sanskrit, might dream of the colourful murals of Buddha coming to life to bestow upon them some private knowledge. Merchants on their long journeys would dream of their wives far away, and of the beautiful silks they had brought from China for them. Lovers would not sleep at all, drawing into the quiet of the desert night the inspiration to write their next love poem, perhaps composing something like this:
 
-<b>TOCHARIAN LOVE SONNET</b> <br>
+**TOCHARIAN LOVE SONNET** <br>
 Love for thee, affection for thee [...] shall not come to an end so long 
 as there lasts life.
 
-<b>SHAKESPEARE</b> <br>
+**SHAKESPEARE** <br>
 So long as men can breathe, or eyes can see,
 So long lives this, and this gives life to thee.
 
@@ -40,7 +40,7 @@ Compare this love poem (written in Tocharian B) with Shakespeare’s celebrated 
 Where: Tarim Basin (Xinjiang province, China)
 When: c. 2000 BCE–9th century CE
 
-<b>HITTITES</b> <br>
+**HITTITES** <br>
 Annoying daughters-in-law and ever more annoying bureaucracy. <br>
 Far from being the modern apparatus that would later inspire Kafka's suffocating stories, Hittite bureaucracy nonetheless recorded everything, from diplomatic correspondence to court proceedings, and even an exhilarating exchange between the Hittite king Šuppiluliuma I and the widowed Egyptian queen Ankhesenamun, who repeatedly implores him to send one of his sons to marry her. Hattusa, the Hittite ancient capital, burned down to the ground, cooking their clay tablets and preserving their cuneiform script for history. The king often wrote about himself following this formula: ‘I, my Majesty,…’. 
 
