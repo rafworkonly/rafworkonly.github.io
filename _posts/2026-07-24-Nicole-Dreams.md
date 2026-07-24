@@ -54,3 +54,6 @@ Around 40–45% of all languages are endangered, and we can cautiously predict w
 Do not let them go gentle into that good night. Learn as many languages as you can, even if they are spoken by millions today, because that might not be true in a future nearer than you imagine, and campaign for the protection of endangered linguistic communities. For some languages, it is too late. They are long gone, their last embers scattered by the wind of history a thousand years ago. 
 
 You could still try to learn a few of them, though. Who knows? Maybe one day they will once again be dreamt in.
+
+**Glossary**
+*Presentism*: an attitude to scrutinise and judge the past according to modern values and ideas
