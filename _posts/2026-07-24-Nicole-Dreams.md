@@ -18,9 +18,8 @@ Rape and pillage. <br>
 Now, I personally dislike the practice of presentism, but wow, those guys loved a fair bit of conquest. As history's first great mounted warriors, the Scythians owed almost everything to horses, including a powerful tool for geographical expansion. They determined social and economic status, provided great material for burial sacrifices, and even facilitated bride kidnapping, a practice so persistent that Kazakhstan introduced a separate offence of coercion into marriage in 2025. 
 
 So, what did the Scythians dream of in their proto-Iranian language? Maybe about the wide steppe all around, and getting lost in the midst of a blizzard on your way back to your tent. Maybe about the fine dappled mare your enemy owns, and what kind of name you would give it if it were yours. Women could have dreamt of war just as much as men: female burial sites often contain weapons, suggesting that they, too, fought in battle, and perhaps even inspired the Greek idea of the Amazons. For a people who were at home of nowhere and everywhere, I like to think they often dreamt of a warm hearth, and of those they loved to anchor them down.
-Where: Pontic–Caspian Steppe (modern Ukraine, southern Russia, and western Kazakhstan).
-
-When: c. 900–200 BCE.
+**Where**: Pontic–Caspian Steppe (modern Ukraine, southern Russia, and western Kazakhstan).
+**When**: c. 900–200 BCE.
 
 **TOCHARIANS** <br>
 The voice of Buddha, impermanence, and money. <br>
@@ -37,8 +36,8 @@ So long as men can breathe, or eyes can see,
 So long lives this, and this gives life to thee.
 
 Compare this love poem (written in Tocharian B) with Shakespeare’s celebrated Sonnet 18 "Shall I compare thee to a summer's day?". The Bard could not have known about the Tocharians, yet it is another reminder of the universality of the language of love.
-Where: Tarim Basin (Xinjiang province, China)
-When: c. 2000 BCE–9th century CE
+**Where**: Tarim Basin (Xinjiang province, China)
+**When**: c. 2000 BCE–9th century CE
 
 **HITTITES** <br>
 Annoying daughters-in-law and ever more annoying bureaucracy. <br>
