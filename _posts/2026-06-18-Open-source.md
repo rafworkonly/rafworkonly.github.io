@@ -1,5 +1,5 @@
 ---
-title: "Try Open Source"
+title: "Try Open Source Software"
 layout: post
 author: "Iggy"
 categories: opinion
