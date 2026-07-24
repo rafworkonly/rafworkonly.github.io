@@ -35,8 +35,8 @@ as there lasts life.
 So long as men can breathe, or eyes can see,
 So long lives this, and this gives life to thee.
 
-Compare this love poem (written in Tocharian B) with Shakespeare’s celebrated Sonnet 18 "Shall I compare thee to a summer's day?". The Bard could not have known about the Tocharians, yet it is another reminder of the universality of the language of love.
-**Where**: Tarim Basin (Xinjiang province, China)
+Compare this love poem (written in Tocharian B) with Shakespeare’s celebrated Sonnet 18 "Shall I compare thee to a summer's day?". The Bard could not have known about the Tocharians, yet it is another reminder of the universality of the language of love. <br>
+**Where**: Tarim Basin (Xinjiang province, China) <br>
 **When**: c. 2000 BCE–9th century CE
 
 **HITTITES** <br>
