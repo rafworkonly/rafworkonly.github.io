@@ -1,10 +1,10 @@
 ---
 layout: post
 author: "Iggy"
-title: Guide for Rocks
+title: A Guide for Climbing Rocks
 date: 2026-06-12
 ---
-This guide is not about rocks nor is it about being reckless. 
+This guide is not about being reckless. 
 
 Get out of bed and grab your backpack. Shove into it your first-aid kit, jumper and a full water bottle. Take with you a dumb phone (e.g., an old Nokia). It is essential you take only the useful technology, and not that which will distract you via notifications from your line manager. 
 
