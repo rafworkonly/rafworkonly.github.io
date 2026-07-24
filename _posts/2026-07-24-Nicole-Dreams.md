@@ -44,8 +44,8 @@ Annoying daughters-in-law and ever more annoying bureaucracy. <br>
 Far from being the modern apparatus that would later inspire Kafka's suffocating stories, Hittite bureaucracy nonetheless recorded everything, from diplomatic correspondence to court proceedings, and even an exhilarating exchange between the Hittite king Šuppiluliuma I and the widowed Egyptian queen Ankhesenamun, who repeatedly implores him to send one of his sons to marry her. Hattusa, the Hittite ancient capital, burned down to the ground, cooking their clay tablets and preserving their cuneiform script for history. The king often wrote about himself following this formula: ‘I, my Majesty,…’. 
 
 What could such a people dream about? Maybe about the perils of life in the Bronze Age, such as having your son fall in love with a beautiful woman, “endowed with every virtue”, so much so that he would forget to hunt game for you (as per a famous Hittite myth). Maybe about the living spoils of war dragged from a city your sovereign had burnt to the ground, all the bruised and famished bodies forever parading through your imagination, and the fear that the same fate might one day befall you and your family. Maybe about the rugged hills your sheep would graze on, until you doze off, one sheep goes missing, and the dream turns into a nightmare. <br>
-Where: Central Anatolia (modern Turkey)
-When: c. 1650–1180 BCE
+**Where**: Central Anatolia (modern Turkey) <br>
+**When**: c. 1650–1180 BCE
 
 A new language disappears every other week. Sometimes, its last speaker refuses to let go, his gravestone inscribed in a language his relatives will not know how to read. Sometimes, it is a whole community, or even a whole country, that does not yield, making possible language revivals such as Hebrew – the only undisputed language revived to the point of once again having native speakers – and Livonian, the language of the original werewolves, now taught in classrooms across Latvia. 
 
