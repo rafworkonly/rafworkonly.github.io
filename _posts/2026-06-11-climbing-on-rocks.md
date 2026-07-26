@@ -6,7 +6,7 @@ date: 2026-06-11
 ---
 Climbing on rocks is dangerous, you can fall, cut yourself, and be stranded in a position where you cannot receive immediate help. 
 
-There is no substitute for real danger, such as indoor bouldering, since you are aware there is a soft mat waiting to cushion your fall. Danger is an encounter with death, and sometimes you must face it directly.
+There is no substitute for real danger, such as indoor bouldering, since you are aware there is a soft mat waiting to cushion your fall. Danger is an encounter with death, and sometimes, you must face it directly.
 
 If you recognise it is truly possible you may die, or get seriously injured, your brain will react differently. Until we started eating caramel digestives on L-shaped sofas, this was a normal part of the human and animal experience. 
 
