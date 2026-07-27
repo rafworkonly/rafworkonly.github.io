@@ -11,8 +11,8 @@ To make a submission:
 We recommend you sit down with a piece of paper and a pen and handwrite your message. Send a photo/scan, and we can type it up with you. There's no length too long or too short. Submit a one sentence poem if you like.
 
 We advise you to:
-- Say what you wanna say (any topic) 
-
+- Say what you wanna say (any topic)
+  
 Some questions to ask yourself could include:
 - What do I want to tell the world?
 - What have I figured out from my experiences so far?
@@ -23,6 +23,9 @@ Some questions to ask yourself could include:
 - What have I succeeded at? 
 - What am I grateful for? 
 - What do we need to change?
+
+You could:
+- Listen to music without lyrics whilst writing
 
 You can:
 - Add photos if you send them via whatsapp (send them HD if possible)
