@@ -26,6 +26,7 @@ Some questions to ask yourself could include:
 
 You could:
 - Listen to music without lyrics whilst writing
+- Sit by an open window
 
 You can:
 - Add photos if you send them via whatsapp (send them HD if possible)
