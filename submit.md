@@ -16,7 +16,7 @@ You should:
 Some questions to ask yourself could include:
 - What do I want to tell the world?
 - What have I figured out from my experiences so far?
-- Why was a specific experience I had positive, neutral, or negative?
+- Why was a specific experience I had good, neutral, or bad?
 - What is something I think is undervalued or deserves more attention? 
 - What do my friends need to know?
 - What have I struggled with?
