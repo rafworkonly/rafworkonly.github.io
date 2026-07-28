@@ -27,6 +27,7 @@ Some questions to ask yourself could include:
 You could:
 - Listen to music without lyrics whilst writing
 - Sit by an open window
+- Make a cup of green tea
 - Hand draw something to go along with your message
 
 You can:
