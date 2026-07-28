@@ -10,7 +10,7 @@ To make a submission:
 
 Sit down with a piece of paper and a pen and handwrite your message. Send a photo/scan, and we can type it up with you. There's no length too long or too short. Submit a one sentence poem if you like.
 
-We advise you to:
+You should:
 - Say what you wanna say (any topic)
   
 Some questions to ask yourself could include:
