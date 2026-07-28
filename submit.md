@@ -24,7 +24,7 @@ Some questions to ask yourself could include:
 - What am I grateful for? 
 - What do we need to change?
 
-You could:
+To supercharge your writing experience you could:
 - Listen to music without lyrics whilst writing
 - Sit by an open window
 - Make a cup of green tea
