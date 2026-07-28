@@ -8,7 +8,7 @@ This site is a place to engage with your local community. It's free, open-source
 
 To make a submission: 
 
-**Sit down with a piece of paper and a pen and handwrite your message. Send a photo/scan, and we can type it up with you. There's no length too long or too short. Submit a one sentence poem if you like.**
+**Sit down with a piece of paper and a pen and handwrite your message. Send a photo/scan**, and we can type it up with you. There's no length too long or too short. Submit a one sentence poem if you like.
 
 We advise you to:
 - Say what you wanna say (any topic)
