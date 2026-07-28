@@ -16,7 +16,7 @@ You should:
 Some questions to ask yourself could include:
 - What do I want to tell the world?
 - What have I figured out from my experiences so far?
-- Why was a specific experience I had positive, or negative?
+- Why was a specific experience I had positive, neutral, or negative?
 - What is something I think is undervalued or deserves more attention? 
 - What do my friends need to know?
 - What have I struggled with?
@@ -24,7 +24,7 @@ Some questions to ask yourself could include:
 - What am I grateful for? 
 - What do we need to change?
 
-To supercharge your experience you could:
+To supercharge your writing experience you could:
 - Sit by an open window
 - Make a cup of green tea
 - Listen to music without lyrics whilst writing
