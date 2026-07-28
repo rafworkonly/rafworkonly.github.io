@@ -25,9 +25,9 @@ Some questions to ask yourself could include:
 - What do we need to change?
 
 To supercharge your writing experience you could:
-- Listen to music without lyrics whilst writing
 - Sit by an open window
 - Make a cup of green tea
+- Listen to music without lyrics whilst writing
 - Hand draw something to go along with your message
 
 You can:
