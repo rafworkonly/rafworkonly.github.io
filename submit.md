@@ -27,7 +27,7 @@ Some questions to ask yourself could include:
 You could:
 - Listen to music without lyrics whilst writing
 - Sit by an open window
-- Draw something by hand to go along with your message
+- Hand draw something to go along with your message
 
 You can:
 - Add photos if you send them via whatsapp (send them HD if possible)
