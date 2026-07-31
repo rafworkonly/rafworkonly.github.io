@@ -8,7 +8,7 @@ date: 2026-06-12
 
 Rock climbing is dangerous, you can fall, cut yourself, and be stranded in a position where you cannot receive immediate help. Nonetheless, there is no substitute for real danger, such as indoor bouldering, since you are aware there is a soft mat waiting to cushion your fall. Danger is an encounter with death, and sometimes, you must face it directly.
 
-If you recognise it is truly possible you may die, or get seriously injured, your brain will react differently. Until we started eating caramel digestives on L-shaped sofas, this was a normal part of the human and animal experience. If you get stressed every time you open your email inbox, as I have been, you should consider rock climbing. It is important to remind yourself that much of your stress is fictional. Until you go and climb some rocks, you may not notice the difference.
+If you recognise it is truly possible you may die, or get seriously injured, your brain will function differently. Until we started eating caramel digestives on L-shaped sofas, this was a normal part of the human and animal experience. If you get stressed every time you open your email inbox, as I have been, you should consider rock climbing. It is important to remind yourself that much of your stress is fictional. Until you go and climb some rocks, you may not notice the difference.
 
 **PART II: Survival, Creativity and Peace**
 
