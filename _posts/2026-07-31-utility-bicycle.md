@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Iggy"
-title: Grocery Shopping Vehicle
+title: Grocery Bicycle
 date: 2026-07-31
 ---
 
