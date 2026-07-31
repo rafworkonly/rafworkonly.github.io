@@ -10,7 +10,7 @@ Rock climbing is dangerous, you can fall, cut yourself, and be stranded in a pos
 
 If you recognise it is truly possible you may die, or get seriously injured, your brain will react differently. Until we started eating caramel digestives on L-shaped sofas, this was a normal part of the human and animal experience. If you get stressed every time you open your email inbox, as I have been, you should consider rock climbing. It is important to remind yourself that much of your stress is fictional. Until you go and climb some rocks, you may not notice the difference.
 
-**PART II: Survival, creativity and peace**
+**PART II: Survival, Creativity and Peace**
 
 This guide is not about being reckless. Get out of bed and grab your backpack. Shove into it your first-aid kit, jumper and a full water bottle. Take with you a dumb phone (e.g., an old Nokia). It is essential you take only the useful technology, and not that which will distract you via notifications from your line manager. 
 
