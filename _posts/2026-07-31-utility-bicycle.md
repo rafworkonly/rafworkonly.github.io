@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Iggy"
-title: Utility Cycle
+title: Grocery Shopping Vehicle
 date: 2026-07-31
 ---
 
