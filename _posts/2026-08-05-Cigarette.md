@@ -6,7 +6,7 @@ date: 2026-08-05
 ---
 "Why do you need to smoke?," they say, <br>
 "It's so bad for you," they all sing, <br>
-Like a well-tuned violin they play their cancerto of concern and criticism, <br>
+Like a well-tuned violin they play their concerto of concern and criticism, <br>
 yet, will that stop me? <br>
 Will it prevent me from lighting up? <br>
 No, simply put. <br>
