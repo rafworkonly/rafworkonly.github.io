@@ -14,7 +14,7 @@ The flickering of the light as the flint sparks up the propane gas, <br>
 the sound of the burning paper, and the fresh burn of tobacco. <br>
 Each smoker loyal to their poison, as a son is to their father, <br>
 the brand, a statement, a message. <br> 
-The tango begins, a short lived euophoria, <br>
+The tango begins, a short lived euphoria, <br>
 smoke dances around your digits, warping the space around you, <br> 
 you're no longer there, not mentally anyway, <br>
 you float to some place else, another time or place, <br>
