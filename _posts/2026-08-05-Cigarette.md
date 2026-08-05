@@ -4,7 +4,7 @@ author: "Ivan"
 title: Cigarette
 date: 2026-08-05
 ---
-"Why do you need to smoke?," they say, <br>
+"Why do you need to smoke?" they say, <br>
 "It's so bad for you," they all sing, <br>
 Like a well-tuned violin they play their concerto of concern and criticism, <br>
 yet, will that stop me? <br>
