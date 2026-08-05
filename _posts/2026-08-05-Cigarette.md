@@ -25,3 +25,5 @@ The painful shard that sits inside every smoke, reminding  <br>
 us why we smoked for the first time. <br>
 A cigarette is, and will always be, <br>
 A continuously oxymoronic extension of ourselves. <br>
+
+![Cigs](/assets/images/cigs.jpeg)
