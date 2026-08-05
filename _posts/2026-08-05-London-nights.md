@@ -21,3 +21,5 @@ My phone was dead, I had no idea how we'd get home. Lucas' pupils had dilated li
 Yeonseo was so drunk, her sense of inhibitions were 6ft under. I kept half an eye, not that she needed it. Often, she would look at a man, her focus dark and unrecognisable to me. It was a matter of the flesh, the animal inside. Within seconds, he'd be standing beside her. One such man has dreadlocks that kept falling into his face as he leaned in to talk. After they tapped something on their phones, he held her shoulder and tilted his head forward. This was the moment. Instead Yeonseo pulled away and scanned around, and I realised she was looking for me. I got her a cup of water.
 
 Nisha and Olly were hooking up in the VIP section round the back. So Mateo, who sort of became the leader, recommended us four just share an Uber home. We rode in silence, a sense of closeness already loud in the car. After I hugged the boys goodbye, and it was just me and Yeonseo in the seats, she started crying. I patted her back gently.
+
+![Drinks](/assets/images/Drinks.jpeg)
