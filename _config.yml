@@ -44,5 +44,5 @@ plugins:
   - jekyll-paginate
   - jekyll-remote-theme
 
-paginate: 30
+paginate: 100
 paginate_path: "/page/:num/"
