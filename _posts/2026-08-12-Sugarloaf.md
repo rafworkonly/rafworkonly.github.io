@@ -4,8 +4,6 @@ author: "Iggy"
 title: An Uncommon Day at Sugarloaf Beach
 date: 2026-08-12
 ---
-An Uncommon Day at Sugarloaf Beach
-
 *As far as I can remember...*
 
 I wake up drousy and clogged, with an aching headache, as I usually do. I get called by my mother asking that we go to the beach, so I take a few things but not my phone. My Dad drives the four of us, including my brother who rarely, if ever, comes with us. We arrive and walk to the slipway, and there are many swimmers we know; I say hello to a few people and turn to face the rocks on the left hand side. 
