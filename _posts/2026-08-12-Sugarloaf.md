@@ -20,8 +20,10 @@ With the full width of my palm I forcefully slap the first pad onto Debbie. The 
 
 The device asks us to continue doing chest compressions, between giving the electric shock. The first electric shock is done by my brother, by clicking a small button on the device. Debbie jolts harshly, and shrieks in agonising pain. My mum, Basia and Janet continue doing the chest compressions. I step in at a certain point believing the compressions are too weak, and push very hard onto Debbie. Debbie's ribs are already broken, I have never feel an awful sensation. We give three shocks in total, and in each, Debbie turns to her side, as if showing that she wants to be released. 
 
-My mum asks me to hold Debbie down whilst we continue doing chest compressions. I straighten her legs on the cement floor, and hold her wrists with both hands. She is far weaker than me, and I do not have trouble keeping her from moving, but continues making agonising sounds. I feel nothing, no stress, reserve or empathy for Debbie, which later haunts me for the coming weeks.
+My mum asks me to hold Debbie down whilst we continue doing chest compressions. I straighten her legs on the cement floor, and hold her wrists with both hands. She is far weaker than me, and I do not have trouble keeping her from moving, but continues making agonising sounds. I feel nothing, no stress, reserve or empathy for Debbie.
 
 The air ambulance lands directly onto the beach. The noise of the helicopter drowns the robotic voice of the defibrillator. The crew tread towards Debbie, their boots crunching on the rocks. The chief doctor asks questions regarding what happened and makes a judgement on whether we did the right thing. We walk away from the scene towards the top of the slipway. 
 
 Debbie sits up, and regains temporary consciousness, and she is taken to the helicopter on a stretcher. She later wakes up on her flight to the hospital. 
+
+*I visually replay the events described in this text for a few weeks*
