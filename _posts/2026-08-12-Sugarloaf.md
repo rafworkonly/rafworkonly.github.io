@@ -14,7 +14,7 @@ My dad runs to Basia, who is swimming. Basia quickly reaches the slipway and joi
 
 Someone passes my brother and I the defibrillator on the wall of the sailing club. In a hectic sequence of events, we unpack the device, trying to slide off the cover, read the instructions, and untangle the sticky pads inside. My brother opens a green zip-tie which seals a section containing the sticky pads. 
 
-I kneel beside Debbie and we turn of the defibrillator, the device gives instructions in a robotic voice. We have to dry Debbie before applying the pads, so I wipe underneath her breast with a towel, I do this quite thoroughly. Debbie does not look alive, her face is grey, her mouth is wide open, and her eyes are not in the correct place. 
+I kneel beside Debbie and we turn on the defibrillator with a big button in its centre, the device gives instructions in a robotic voice. We have to dry Debbie before applying the pads, so I wipe underneath her breast with a towel, I do this quite thoroughly. Debbie does not look alive, her face is grey, her mouth is wide open, and her eyes are not in the correct place. 
 
 With the full width of my palm I forcefully slap the first pad onto Debbie. The second pad sticks to my fingers, and I ask whether I am sticking it in the right place, I stick the second pad underneath her breast. There are small diagrams on the stickers showing where they should go. 
 
