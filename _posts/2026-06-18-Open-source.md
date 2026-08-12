@@ -16,9 +16,12 @@ Sandbox factory game, <a href="https://anuke.itch.io/mindustry">Mindustry</a> <b
 Free AI image upscaler, <a href="https://free.upscaler.video/">Upscaler</a> <br>
 Computer operating system, <a href="https://www.debian.org/">Debian</a> <br> 
 Molecular dynamics, <a href="https://www.gromacs.org/">Gromacs</a> <br>
-Microcontroller IDE (Sophia's suggestion), <a href="https://docs.arduino.cc/software/ide/">Arduino</a> <br>
 Technical or scientific documents, <a href="https://www.texstudio.org/">LaTeX</a> <br>
-Process simulator (Ivan's suggestion), <a href="https://dwsim.org/">DWSIM</a> <br>
+
+Sophia's and Ivan's suggestions, respectively:
+
+Microcontroller IDE, <a href="https://docs.arduino.cc/software/ide/">Arduino</a> <br>
+Process simulator, <a href="https://dwsim.org/">DWSIM</a> <br>
 
 If you have any more ideas let me know and I will add them. 
 
