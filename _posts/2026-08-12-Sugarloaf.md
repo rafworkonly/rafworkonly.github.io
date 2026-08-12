@@ -24,6 +24,6 @@ The device asks us to continue doing chest compressions, between giving the elec
 
 My mum asks me to hold Debbie down whilst we continue doing chest compressions. I straighten her legs on the cement floor, and hold her wrists with both hands. She is far weaker than me, and I do not have trouble keeping her from moving, but continues making agonising sounds. I feel nothing, no stress, reserve or empathy for Debbie. 
 
-The air ambulance lands directly onto the beach. The noise of the helicopter drowns the robotic voice of the defibrillator. They tread towards Debbie, their boots crunching on the rocks. The chief doctor asks questions regarding what happened and makes a judgement on whether we did the right thing. We walk away from the scene towards the top of the slipway. 
+The air ambulance lands directly onto the beach. The noise of the helicopter drowns the robotic voice of the defibrillator. The crew tread towards Debbie, their boots crunching on the rocks. The chief doctor asks questions regarding what happened and makes a judgement on whether we did the right thing. We walk away from the scene towards the top of the slipway. 
 
-Debbie sits up, and regains temporary consciousness, and she is taken to the helicopter on a stretcher. She later wakes up in the helicopter. 
+Debbie sits up, and regains temporary consciousness, and she is taken to the helicopter on a stretcher. She later wakes up on her flight to the hospital. 
