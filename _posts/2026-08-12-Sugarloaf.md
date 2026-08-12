@@ -8,7 +8,7 @@ date: 2026-08-12
 
 I wake up drousy and clogged, with an aching headache, as I usually do. I get called by my mother asking that we go to the beach, so I take a few things but not my phone. My Dad drives the four of us, including my brother who rarely, if ever, comes with us. We arrive and walk to the slipway, and there are many swimmers we know; I say hello to a few people and turn to face the rocks on the left hand side. 
 
-I turn and see Debbie collapse, with a rag-doll like motion, she doesn't put her hands up to protect herself; I am stunned and feel a sense of distress in my chest. Janet runs up to Debbie and checks whether she has a pulse and whether she is breathing. She immediately starts doing chest compressions, and my mum runs to Debbie, they switch places, where Janet does mouth-to-mouth at the correct interval. I see Tonya pick up the phone and call for an ambulance, she walks towards the sailing club. 
+I turn again and see Debbie collapse, with a rag-doll like motion, she doesn't put her hands up to protect herself; I am stunned and feel a sense of distress in my chest. Janet runs up to Debbie and checks whether she has a pulse and whether she is breathing. She immediately starts doing chest compressions, and my mum runs to Debbie, they switch places, where Janet does mouth-to-mouth at the correct interval. I see Tonya pick up the phone and call for an ambulance, she walks towards the sailing club. 
 
 My dad runs to Basia, who is swimming. Basia quickly reaches the slipway and joins the group helping Debbie. 
 
