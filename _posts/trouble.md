@@ -1,0 +1,49 @@
+
+---
+layout: post
+author: "Sophia and Iggy"
+title: I might get in trouble for this
+date: 2026-08-14
+---
+
+![bike](/assets/images/us-on-a-bike.jpeg)
+
+Dear Sophia,
+
+I hardly know what is going in my head myself, but I know I love you and my gut feeling tells me that we should be together.
+
+I'd like to say sorry for the mistakes I made - often not explaining myself properly, not understanding your point of view and your struggles, not being empathetic towards the pressure that I can put on you, not seeing how much of a burden my issues can be.
+
+I don't think talking about specific instances and details of where I failed to do these things is useful, including the day and conversation we had and such, I wouldn't want to pinpoint my errors, or your errors, although I do this in my own mind. I think we should try to move the conversation into a different space.
+
+I think many of our problems come from our lack of self-love. One example of my lack of self-love presents itself as my insecurity with my capabilities, despite every bit of evidence suggesting I am capable. One example of your lack of self-love is your insecurity with your body and your looks, despite every bit of evidence suggesting you have a wonderful body and looks. You should know your hair is beautiful regardless of whether it is frizzy or gelled-up. Don't let any pesky demons infiltrate your mind.
+
+I think we can change, though, and hopefully I can change in a way that is right for you, and you can change in a way that is right for me. To me, right often does not mean easy, pleasurable or comfortable (although it can be, such as with swimming), and I've found that I often have the most profound realisations in moments of discomfort (but not necessarily pain or suffering). Realising I was wrong, realising I can seem emotionless, realising that there is another way.
+
+Why am I writing this more about myself than you? Because I would like you to also write one about yourself and about us, but not about me. At the end of the day, we can only change ourselves.
+
+Anyway this is no place to dwell on the past. 'Dwell on the past and you will lose an eye, forget the past and you will lose two', I read this recently in that book, 'The Gulag Archipelago'. This quote means something like: if we get caught up in our mistakes: we can't move on, and if we don't learn from them, we won't move on.
+
+I think what I need to do is spend some more time with nature, get better at writing, this seems to fix things for me. Less talking more action! And also spend more time doing things for myself, have stronger boundaries, and put less pressure on you. I'll be waiting for your letter :)
+
+I have hope and optimism for our future.
+
+I love you,
+Iggy
+
+![formal](/assets/images/us-at-a-formal.jpeg)
+
+Dear Iggy,
+
+I have written many different iterations of this letter now, and some have been very sad and reflective. However, today I have finished reading a very inspiring book, and finally received the sewing machine I have been wanting to learn to use my entire life. So, I'm feeling quite hopeful and believe this is a good state to write the letter in. I also feel very hopeful about our relationship, which I'll admit, I have not always felt. Now, I feel a lasting difference and believe it will stick.
+
+I know I often ask you, as well as myself, why you love me and want to be with me. As much as it saddens me that you don't always have a clear answer, it is true that I don't either. However, in my book there was a line that read 'Love is the force that transforms and improves the Soul of the World'. Of course, this is a very dramatic line, but I have always believed that you really transformed my outlook on life, my soul, and for this I will be forever grateful. The way I treat people, interpret infomration, and empathise has really changed for the better since being with you and seeing how you interact with the world. Sometimes I notice my actions and behaviour, and think to myself, 'I would have never acted in this way just a year ago.' Not that I used to be evil, just different. of course we still have our differences, but I honestly think I owe a large part of my personal growth to you. I hope I can also have this impact on you sometime, if I haven't already. 
+
+This being said, I hope you can offer this same empathy, understanding, and patience with me as you do with other people in your life. I spend most of my time thinking of you and trying to understand you often to no avail. I think you would benefit from offering this to me too. Sometimes I feel as though you believe you've figured me out, but I can assure you that you haven't. 
+
+The wall I have around me that we spoke about the first night we spent together is as tall as ever, and I want it to be you to try and break it down. Only if you really want to, of course.
+
+Lots of love,
+Sophia
+
+![beach](/assets/images/us-at-the-beach.jpeg)
