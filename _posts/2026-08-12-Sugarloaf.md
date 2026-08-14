@@ -26,4 +26,6 @@ The air ambulance lands directly onto the beach. The noise of the helicopter dro
 
 Debbie sits up, and regains temporary consciousness, and she is taken to the helicopter on a stretcher. She later wakes up on her flight to the hospital. 
 
-*I visually replay the events described in this text for a few weeks.*
+*I replay the events described in this text in my mind for a few weeks.*
+
+![Debbie and Ness](/assets/images/debbie-and-ness.png)
