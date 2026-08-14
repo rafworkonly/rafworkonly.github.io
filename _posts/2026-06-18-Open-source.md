@@ -13,7 +13,6 @@ Although open source software has a few disadvantages, often an unaesthetic user
 Free dictionary, <a href="https://gcide.gnu.org.ua/about">GCIDE</a> <br>
 Packing and unpacking files, <a href="https://www.7-zip.org/">7-zip</a> <br>
 Sandbox factory game, <a href="https://anuke.itch.io/mindustry">Mindustry</a> <br>
-Free AI image upscaler, <a href="https://free.upscaler.video/">Upscaler</a> <br>
 Computer operating system, <a href="https://www.debian.org/">Debian</a> <br> 
 Molecular dynamics, <a href="https://www.gromacs.org/">Gromacs</a> <br>
 Technical or scientific documents, <a href="https://www.texstudio.org/">LaTeX</a> <br>
