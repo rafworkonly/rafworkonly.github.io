@@ -28,7 +28,6 @@ To supercharge your writing experience you could:
 - Sit by an open window
 - Make a cup of green tea
 - Light a candle
-- Listen to music without lyrics whilst writing
 - Hand draw something to go along with your message
 
 You can:
