@@ -6,7 +6,7 @@ title: I might get in trouble for this
 date: 2026-08-14
 ---
 
-![bike](/assets/images/us-on-a-bike.jpeg)
+![bike](/assets/images/us-on-a-bike.jpg)
 
 Dear Sophia,
 
@@ -31,7 +31,7 @@ I have hope and optimism for our future.
 I love you,
 Iggy
 
-![formal](/assets/images/us-at-a-formal.jpeg)
+![formal](/assets/images/us-at-a-formal.jpg)
 
 Dear Iggy,
 
@@ -46,4 +46,4 @@ The wall I have around me that we spoke about the first night we spent together 
 Lots of love,
 Sophia
 
-![beach](/assets/images/us-at-the-beach.jpeg)
+![beach](/assets/images/us-at-the-beach.jpg)
