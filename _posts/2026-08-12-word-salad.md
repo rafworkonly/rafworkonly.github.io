@@ -2,7 +2,7 @@
 layout: post
 author: "Iggy"
 title: Word Salad
-date: 2026-08-12
+date: 2026-07-15
 ---
 
 **PART I: Danger, Fear and Survival**
