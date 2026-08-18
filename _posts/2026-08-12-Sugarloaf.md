@@ -25,7 +25,3 @@ My mum asks me to hold Debbie down whilst we continue doing chest compressions. 
 The air ambulance lands directly onto the beach. The noise of the helicopter drowns the robotic voice of the defibrillator. The crew tread towards Debbie, their boots crunching on the rocks. The chief doctor asks questions regarding what happened and makes a judgement on whether we did the right thing. We walk away from the scene towards the top of the slipway. 
 
 Debbie sits up, and regains temporary consciousness, and she is taken to the helicopter on a stretcher. She later wakes up on her flight to the hospital. 
-
-*I replay the events described in this text in my mind for a few weeks.*
-
-![Debbie and Ness](/assets/images/debbie-and-ness.png)
